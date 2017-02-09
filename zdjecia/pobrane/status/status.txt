@@ -1,0 +1,7 @@
+[download]
+available=0
+
+[view]
+last_seen=C:\Users\rszul\Pictures\zdjecia\DSC_0372.JPG
+picture_viewer_status=running
+
