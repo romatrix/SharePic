@@ -10,3 +10,11 @@ TaskbarNotificationHandler::TaskbarNotificationHandler()
 TaskbarNotificationHandler::~TaskbarNotificationHandler()
 {
 }
+
+void TaskbarNotificationHandler::addIcon()
+{
+}
+
+void TaskbarNotificationHandler::removeIcon()
+{
+}
