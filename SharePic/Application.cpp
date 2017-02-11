@@ -14,13 +14,17 @@ Application::Application()
 
 Application::~Application()
 {
+	mPhotoViewer.stopViewer();
 	log("\n\n\nAPPLIACATION END\n\n\n");
 }
 
-void Application::init()
+void Application::init(CWinApp *winApp, uint32_t tryIconMessageId)
 {
 	try {
 		mSettings.parse("settings.txt");
+
+		mTaskbarArea.setWinApp(winApp);
+		mTaskbarArea.addIcon(tryIconMessageId);
 
 		string photoViewer = mSettings.get<string>("general", "picture_viewer");
 		mPhotoViewer.setExecutable(photoViewer);
@@ -66,6 +70,11 @@ void Application::startViewerWithLastSeenPicture()
 	}
 
 	log("7");
+}
+
+void Application::removeTrayIcon()
+{
+	mTaskbarArea.removeIcon();
 }
 
 void Application::scanDownloadFolder()

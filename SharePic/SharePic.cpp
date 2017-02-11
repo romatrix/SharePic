@@ -186,12 +186,16 @@ BOOL CSharePicApp::InitInstance()
 	// such as the name of your company or organization
 	SetRegistryKey(_T("Local AppWizard-Generated Applications"));
 
-	Application app;
-
-	app.init();
-
 	CSharePicDlg dlg;
+
+	//dlg.Create(IDD_SHAREPIC_DIALOG);
+	
 	m_pMainWnd = &dlg;
+	//dlg.ShowWindow(SW_SHOW);
+	//CWinApp::Run();
+
+	//return TRUE;
+
 	INT_PTR nResponse = dlg.DoModal();
 	if (nResponse == IDOK)
 	{
@@ -209,14 +213,22 @@ BOOL CSharePicApp::InitInstance()
 		TRACE(traceAppMsg, 0, "Warning: if you are using MFC controls on the dialog, you cannot #define _AFX_NO_MFC_CONTROLS_IN_DIALOGS.\n");
 	}
 
-	// Delete the shell manager created above.
-	if (pShellManager != NULL)
-	{
-		delete pShellManager;
-	}
+	//// Delete the shell manager created above.
+	//if (pShellManager != NULL)
+	//{
+	//	delete pShellManager;
+	//}
 
 	// Since the dialog has been closed, return FALSE so that we exit the
 	//  application, rather than start the application's message pump.
 	return FALSE;
 }
 
+
+
+int CSharePicApp::Run()
+{
+	// TODO: Add your specialized code here and/or call the base class
+
+	return CWinApp::Run();
+}

@@ -227,6 +227,7 @@
     <ResourceCompile Include="SharePic.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram.cd" />
     <None Include="res\SharePic.rc2" />
   </ItemGroup>
   <ItemGroup>

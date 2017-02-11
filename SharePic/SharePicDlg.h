@@ -4,6 +4,8 @@
 
 #pragma once
 
+#include "Application.h"
+
 
 // CSharePicDlg dialog
 class CSharePicDlg : public CDialogEx
@@ -30,4 +32,16 @@ protected:
 	afx_msg void OnPaint();
 	afx_msg HCURSOR OnQueryDragIcon();
 	DECLARE_MESSAGE_MAP()
+private:
+	Application mSharePicApp;
+	constexpr static uint32_t mTrayIconMessageId = WM_APP + 1;
+	virtual LRESULT DefWindowProc(UINT message, WPARAM wParam, LPARAM lParam);
+	bool mVisible = false;
+	void show(bool set);
+public:
+
+
+	afx_msg void OnWindowPosChanging(WINDOWPOS* lpwndpos);
+	afx_msg void OnBnClickedCancel();
+	afx_msg void OnBnClickedOk();
 };

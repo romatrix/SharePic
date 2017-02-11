@@ -30,6 +30,9 @@ void CSharePicDlg::DoDataExchange(CDataExchange* pDX)
 BEGIN_MESSAGE_MAP(CSharePicDlg, CDialogEx)
 	ON_WM_PAINT()
 	ON_WM_QUERYDRAGICON()
+	ON_WM_WINDOWPOSCHANGING()
+	ON_BN_CLICKED(IDCANCEL, &CSharePicDlg::OnBnClickedCancel)
+	ON_BN_CLICKED(IDOK, &CSharePicDlg::OnBnClickedOk)
 END_MESSAGE_MAP()
 
 
@@ -45,6 +48,8 @@ BOOL CSharePicDlg::OnInitDialog()
 	SetIcon(m_hIcon, FALSE);		// Set small icon
 
 	// TODO: Add extra initialization here
+
+	mSharePicApp.init(AfxGetApp(), mTrayIconMessageId);
 
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
@@ -85,3 +90,68 @@ HCURSOR CSharePicDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+
+LRESULT CSharePicDlg::DefWindowProc(UINT message, WPARAM wParam, LPARAM lParam)
+{
+	// TODO: Add your specialized code here and/or call the base 
+	switch (message) {
+		case WM_DESTROY:
+			mSharePicApp.removeTrayIcon();
+			break;
+		case mTrayIconMessageId:
+			switch (lParam)
+			{
+			case WM_LBUTTONUP:
+				show(!mVisible);
+
+				break;
+			case WM_RBUTTONUP:
+				CDialogEx::OnCancel();
+				break;
+			//case WM_CONTEXTMENU:
+			//	ShowContextMenu();
+			}
+			break;
+			break;
+	}
+
+	return CDialogEx::DefWindowProc(message, wParam, lParam);
+}
+
+void CSharePicDlg::show(bool set)
+{
+	mVisible = set;
+
+	if (mVisible) {
+		ShowWindow(SW_SHOW);
+	}
+	else {
+		ShowWindow(SW_HIDE);
+	}
+}
+
+
+
+void CSharePicDlg::OnWindowPosChanging(WINDOWPOS* lpwndpos)
+{
+	if (!mVisible) {
+		lpwndpos->flags &= ~SWP_SHOWWINDOW;
+	}
+
+	CDialogEx::OnWindowPosChanging(lpwndpos);
+
+	// TODO: Add your message handler code here
+}
+
+
+void CSharePicDlg::OnBnClickedCancel()
+{
+	show(false);
+}
+
+
+void CSharePicDlg::OnBnClickedOk()
+{
+	show(false);
+}
