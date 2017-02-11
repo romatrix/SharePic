@@ -33,6 +33,7 @@ BEGIN_MESSAGE_MAP(CSharePicDlg, CDialogEx)
 	ON_WM_WINDOWPOSCHANGING()
 	ON_BN_CLICKED(IDCANCEL, &CSharePicDlg::OnBnClickedCancel)
 	ON_BN_CLICKED(IDOK, &CSharePicDlg::OnBnClickedOk)
+	ON_BN_CLICKED(IDC_BUTTON_SHOW_PICTURES, &CSharePicDlg::OnBnClickedButtonShowPictures)
 END_MESSAGE_MAP()
 
 
@@ -125,6 +126,7 @@ void CSharePicDlg::show(bool set)
 
 	if (mVisible) {
 		ShowWindow(SW_SHOW);
+		SetForegroundWindow();
 	}
 	else {
 		ShowWindow(SW_HIDE);
@@ -153,5 +155,12 @@ void CSharePicDlg::OnBnClickedCancel()
 
 void CSharePicDlg::OnBnClickedOk()
 {
+	show(false);
+}
+
+
+void CSharePicDlg::OnBnClickedButtonShowPictures()
+{
+	mSharePicApp.startViewerWithLastSeenPicture();
 	show(false);
 }
