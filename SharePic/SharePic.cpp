@@ -20,124 +20,18 @@
 #endif
 
 
-// CSharePicApp
 
 BEGIN_MESSAGE_MAP(CSharePicApp, CWinApp)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
 END_MESSAGE_MAP()
 
 
-class test {
-public:
-	void t1() {
-		int m = 0;
-		m++;
-	}
-	int k = 0;
-};
 
 // CSharePicApp construction
 
-//BakopHandler bh;
-//PhotoViewer pv;
-//DirectoryMonitor dm;
-
-void dupa()
-{
-	NETRESOURCE resource;
-	resource.dwType = RESOURCETYPE_DISK;
-	resource.lpLocalName = 0;
-	resource.lpRemoteName = "\\\\25.110.150.185\\nela";
-	resource.lpProvider = 0;
-	DWORD conResult;
-	//DWORD result = WNetAddConnection2(&resource, "bukann", "dudzik2", CONNECT_TEMPORARY);
-	DWORD result = WNetAddConnection2(&resource, NULL, NULL, CONNECT_TEMPORARY);
-	if (result == NO_ERROR) {
-		// Go hog wild with files in \\server\share
-		WIN32_FIND_DATA fd;
-		CString searchpath = resource.lpRemoteName + CString("\\*.*");
-		HANDLE findHandle = FindFirstFile(searchpath, &fd);
-		if (findHandle != INVALID_HANDLE_VALUE) {
-			// the rest of the enumeration here
-			do {
-
-				if (fd.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY)
-				{
-
-				}
-				else
-				{
-					std::string s = fd.cFileName;
-
-					s += " ";
-				}
-			} while (FindNextFile(findHandle, &fd) != 0);
-
-			FindClose(findHandle);
-
-			BOOL ret = CopyFile("C:\\Users\\rszul\\Pictures\\DSC_0011_poparwione.JPG", "\\\\25.110.150.185\\nela\\", FALSE);
-			ret = ret;
-		}
-
-		DWORD retval = WNetCancelConnection2("\\\\25.110.150.185\\nela", 0, TRUE);
-	}
-
-	
-}
-
-//void settings() {
-//	SettingsParser sp;
-//
-//	sp.parse("settings.txt");
-//
-//	int m = sp.get<int>("general", "x");
-//	std::string s = sp.get<std::string>("general", "y");
-//
-//	int k = 0;
-//}
-//
-//void picuturesDownloaded() {
-//
-//}
-//
-//void monitor() {
-//	dm.start("C:\\projekty\\slideshow\\SharePic\\zdjecia\\pobrane\\status", picuturesDownloaded);
-//
-//	Sleep(30000);
-//
-//	dm.stop();
-//}
-
-
 
 CSharePicApp::CSharePicApp()
-{
-	//settings();
-	//monitor();
-	//dupa();
-	//test t;
-	//
-	//ExternalToolLauncher etl("\"C:\\Program Files (x86)\\Google\\Picasa3\\PicasaPhotoViewer.exe\"", 
-	//	"\"C:\\Users\\rszul\\Pictures\\fotka_portal.jpg\"", 
-	//	bind(&test::t1, &t));
-	//
-	//t.k = 1;
-	//etl.Launch();
-
-	//bh.uploadFiles();
-	//bh.cleanRemoteDirectory();
-	//DownloadedFileList dfl;
-
-	////dfl.enumerateDirectory("C:\\Users\\rszul\\Pictures\\sylwester_2016");
-	//dfl.enumerateDirectory("C:\\projekty\\slideshow\\SharePic\\zdjecia\\pobrane");
-
-	//if (dfl.getFileCount()) {
-	//	dfl.moveFiles("C:\\Users\\rszul\\Pictures\\zdjecia");
-
-	//	pv.setInitialPicture(dfl.getFile(0));
-	//	pv.startViewer();
-	//}
-	
+{	
 	// support Restart Manager
 	m_dwRestartManagerSupportFlags = AFX_RESTART_MANAGER_SUPPORT_RESTART;
 
@@ -186,11 +80,8 @@ BOOL CSharePicApp::InitInstance()
 	// such as the name of your company or organization
 	SetRegistryKey(_T("Local AppWizard-Generated Applications"));
 
-	Application app;
-
-	app.init();
-
 	CSharePicDlg dlg;
+	
 	m_pMainWnd = &dlg;
 	INT_PTR nResponse = dlg.DoModal();
 	if (nResponse == IDOK)
@@ -220,3 +111,11 @@ BOOL CSharePicApp::InitInstance()
 	return FALSE;
 }
 
+
+
+int CSharePicApp::Run()
+{
+	// TODO: Add your specialized code here and/or call the base class
+
+	return CWinApp::Run();
+}

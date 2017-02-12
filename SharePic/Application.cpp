@@ -14,13 +14,19 @@ Application::Application()
 
 Application::~Application()
 {
+	mPhotoViewer.stopViewer();
 	log("\n\n\nAPPLIACATION END\n\n\n");
 }
 
-void Application::init()
+void Application::init(CWinApp *winApp, uint32_t tryIconMessageId)
 {
+	log("");
+
 	try {
 		mSettings.parse("settings.txt");
+
+		mTaskbarArea.setWinApp(winApp);
+		mTaskbarArea.addIcon(tryIconMessageId);
 
 		string photoViewer = mSettings.get<string>("general", "picture_viewer");
 		mPhotoViewer.setExecutable(photoViewer);
@@ -39,56 +45,46 @@ void Application::init()
 
 void Application::startViewerWithLastSeenPicture() 
 {
+	log("");
+
 	string statusFolder = mSettings.get<string>("general", "status_folder");
 	string statusFile = statusFolder + "\\" + mSettings.get<string>("general", "status_file");
 
-	log("1");
 	StatusFile sf(statusFile);
-	log("2");
 
 	sf.lock();
 
 
 	try {
 
-		log("3");
 		string initialPicture = sf.getLastSeenPicture();
 
-		log("4");
 		mPhotoViewer.setInitialPicture(initialPicture);
-		log("5");
 		mPhotoViewer.startViewer();
-		log("6");
 	}
 	catch (string &s) {
-		log("startViewerWithLastSeenPicture");
 		log(s.c_str());
 	}
+}
 
-	log("7");
+void Application::removeTrayIcon()
+{
+	mTaskbarArea.removeIcon();
 }
 
 void Application::scanDownloadFolder()
 {
-	log("8");
-
 	string statusFolder = mSettings.get<string>("general", "status_folder");
-	log("9");
 	string statusFile = statusFolder + "\\" + mSettings.get<string>("general", "status_file");
-
-	log(__FUNCTION__);
 
 	for (int i = 0; i < 20; ++i) {
 
-		log("10");
 		StatusFile sf(statusFile);
 
 		sf.lock();
-		log("11");
 
 		try {
 			if (sf.getDownloadAvailable()) {
-				log("getDownloadAvailable");
 				DownloadedFileList dfl;
 
 				string downloadFolder = mSettings.get<string>("general", "download_folder");
@@ -105,7 +101,6 @@ void Application::scanDownloadFolder()
 					mPhotoViewer.setInitialPicture(initialPicture);
 					mPhotoViewer.startViewer();
 
-					log("getFileCount");
 				}
 				else {
 					//no files in download directory
@@ -114,7 +109,6 @@ void Application::scanDownloadFolder()
 				sf.clearDownloadAvailable();
 				sf.serialize();
 				
-				log("wyzerowany download");
 			} 
 		}
 		catch (string &ex) {

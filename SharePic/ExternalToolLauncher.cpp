@@ -19,7 +19,6 @@ ExternalToolLauncher::~ExternalToolLauncher()
 bool ExternalToolLauncher::launch()
 {
 	log("");
-	//ShellExecute(0, /*mApplication.c_str()*/0, mParameters.c_str(), 0, 0, SW_SHOW);
 
 	string commandLine = mApplication + " " + mParameters;
 

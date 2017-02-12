@@ -1,5 +1,5 @@
 [download]
-available=0
+available=1
 
 [view]
 last_seen=C:\Users\rszul\Pictures\zdjecia\DSC_0372.JPG
