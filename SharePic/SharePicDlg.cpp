@@ -143,7 +143,6 @@ void CSharePicDlg::OnWindowPosChanging(WINDOWPOS* lpwndpos)
 
 	CDialogEx::OnWindowPosChanging(lpwndpos);
 
-	// TODO: Add your message handler code here
 }
 
 

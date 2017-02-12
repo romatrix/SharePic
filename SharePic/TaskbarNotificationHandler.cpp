@@ -55,7 +55,6 @@ void TaskbarNotificationHandler::removeIcon()
 	nid.hWnd = mWinApp->m_pMainWnd->GetSafeHwnd();
 	nid.uFlags = NIF_ICON;
 
-	//strcpy(nid.szTip, "Test application");
 
 	nid.hIcon = (HICON)LoadImage(mWinApp->m_hInstance,
 		MAKEINTRESOURCE(IDR_MAINFRAME),
@@ -63,8 +62,6 @@ void TaskbarNotificationHandler::removeIcon()
 		GetSystemMetrics(SM_CXSMICON),
 		GetSystemMetrics(SM_CYSMICON),
 		LR_DEFAULTCOLOR);
-
-	//nid.uCallbackMessage = messageId;
 
 
 	// Show the notification.

@@ -15,11 +15,13 @@ public:
 	Log& operator()(const string &log);
 };
 
-#define log(x){ \
-	stringstream ss; \
-	ss << '[' << this << "][" << __FUNCTION__ << ':' <<__LINE__ << "] " << x; \
-	Log(ss.str()); \
+#ifdef _DEBUG
+	#define log(x){ \
+		stringstream ss; \
+		ss << '[' << this << "][" << __FUNCTION__ << ':' <<__LINE__ << "] " << x; \
+		Log(ss.str()); \
 }
-
-//#define log(x)
+#else
+	#define log(x)
+#endif
 
