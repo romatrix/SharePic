@@ -42,13 +42,7 @@
     <ClInclude Include="PhotoViewer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BakopHandler.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="DownloadedFileList.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SettingsManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SettingsParser.h">
@@ -72,6 +66,12 @@
     <ClInclude Include="TaskbarNotificationHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="UpdateManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhotoManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SharePic.cpp">
@@ -92,13 +92,7 @@
     <ClCompile Include="PhotoViewer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BakopHandler.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="DownloadedFileList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SettingsManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SettingsParser.cpp">
@@ -120,6 +114,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TaskbarNotificationHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhotoManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

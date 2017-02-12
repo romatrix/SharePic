@@ -182,16 +182,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
-    <ClInclude Include="BakopHandler.h" />
     <ClInclude Include="DirectoryMonitor.h" />
     <ClInclude Include="DownloadedFileList.h" />
     <ClInclude Include="ExternalToolLauncher.h" />
     <ClInclude Include="Log.h" />
     <ClInclude Include="MonitorProcess.h" />
+    <ClInclude Include="PhotoManager.h" />
     <ClInclude Include="PhotoViewer.h" />
     <ClInclude Include="RemoteDirectory.h" />
     <ClInclude Include="Resource.h" />
-    <ClInclude Include="SettingsManager.h" />
     <ClInclude Include="SettingsParser.h" />
     <ClInclude Include="SharePic.h" />
     <ClInclude Include="SharePicDlg.h" />
@@ -199,18 +198,18 @@
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TaskbarNotificationHandler.h" />
+    <ClInclude Include="UpdateManager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application.cpp" />
-    <ClCompile Include="BakopHandler.cpp" />
     <ClCompile Include="DirectoryMonitor.cpp" />
     <ClCompile Include="DownloadedFileList.cpp" />
     <ClCompile Include="ExternalToolLauncher.cpp" />
     <ClCompile Include="Log.cpp" />
     <ClCompile Include="MonitorProcess.cpp" />
+    <ClCompile Include="PhotoManager.cpp" />
     <ClCompile Include="PhotoViewer.cpp" />
     <ClCompile Include="RemoteDirectory.cpp" />
-    <ClCompile Include="SettingsManager.cpp" />
     <ClCompile Include="SettingsParser.cpp" />
     <ClCompile Include="SharePic.cpp" />
     <ClCompile Include="SharePicDlg.cpp" />
@@ -222,6 +221,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="TaskbarNotificationHandler.cpp" />
+    <ClCompile Include="UpdateManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SharePic.rc" />

@@ -1,9 +1,10 @@
+[update]
+download_folder=.\download\update
+
 [general]
-x=12
-y="adsad\"
 remote_share="\\25.110.150.185\nela"
-status_folder=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status
+status_folder=.\download\status
 status_file=status.txt
-download_folder=C:\projekty\slideshow\SharePic\zdjecia\pobrane
+download_folder=.\download
 destination_folder=C:\Users\rszul\Pictures\zdjecia
 picture_viewer="C:\Program Files (x86)\Google\Picasa3\PicasaPhotoViewer.exe"

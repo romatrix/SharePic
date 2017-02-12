@@ -5,7 +5,6 @@
 #include <fstream>
 
 #include "SettingsParser.h"
-#include "SettingsManager.h"
 
 
 void SettingsParser::parse(const string & file)

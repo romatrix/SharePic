@@ -1,0 +1,2954 @@
+[0059F95C][DirectoryMonitor::DirectoryMonitor:8] 
+[0059F9BC][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0059F93C][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0059F9BC][TaskbarNotificationHandler::addIcon:21] 
+[0059F9BC][TaskbarNotificationHandler::addIcon:42] OK
+[0059F93C][Application::startViewerWithLastSeenPicture:48] 1
+[0059EE54][StatusFile::StatusFile:10] 
+[0059F93C][Application::startViewerWithLastSeenPicture:50] 2
+[0059EE54][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0059EE54][StatusFile::lock:52] 
+[0059F93C][Application::startViewerWithLastSeenPicture:57] 3
+[0059F93C][Application::startViewerWithLastSeenPicture:60] 4
+[0059F93C][Application::startViewerWithLastSeenPicture:62] 5
+[0059F984][PhotoViewer::startViewer:18] 
+[0059F984][PhotoViewer::stopViewer:31] 
+[00243A38][MonitorProcess::MonitorProcess:9] 
+[002439E0][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0059F984][PhotoViewer::startViewer:24] 
+[002439E0][ExternalToolLauncher::launch:21] 
+[00243A38][MonitorProcess::start:22] 
+[00243A38][MonitorProcess::runningThread:68] 
+[002439E0][ExternalToolLauncher::launch:47] 
+[0059F984][PhotoViewer::startViewer:26] 
+[0059F93C][Application::startViewerWithLastSeenPicture:64] 6
+[0059F93C][Application::startViewerWithLastSeenPicture:71] 7
+[0059EE54][StatusFile::unlock:22] 
+[0059EE54][StatusFile::unlock:25] closing
+[0059EE54][StatusFile::~StatusFile:17] 
+[0059F93C][Application::scanDownloadFolder:81] 8
+[0059F93C][Application::scanDownloadFolder:84] 9
+[0059F93C][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0059F93C][Application::scanDownloadFolder:91] 10
+[0059EDD0][StatusFile::StatusFile:10] 
+[0059EDD0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0059EDD0][StatusFile::lock:52] 
+[0059F93C][Application::scanDownloadFolder:95] 11
+[0059EDD0][StatusFile::getDownloadAvailable:103] ret=0
+[0059EDD0][StatusFile::unlock:22] 
+[0059EDD0][StatusFile::unlock:25] closing
+[0059EDD0][StatusFile::~StatusFile:17] 
+[0059F95C][DirectoryMonitor::start:41] beg
+[0059F95C][DirectoryMonitor::start:45] 
+[0059F95C][DirectoryMonitor::start:52] 
+[0059F95C][DirectoryMonitor::start:59] 
+[0059F95C][DirectoryMonitor::start:67] 
+[0059F95C][DirectoryMonitor::start:74] end
+[0059F95C][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0059F95C][DirectoryMonitor::threadMethod:94] start
+[00243A38][MonitorProcess::runningThread:82] ended
+[002439E0][ExternalToolLauncher::onProcessEnd:60] 
+[0059F984][PhotoViewer::onViewerEnd:47] 
+[00243A38][MonitorProcess::runningThread:92] 
+[0032FAD4][DirectoryMonitor::DirectoryMonitor:8] 
+[0032FB34][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0032FAB4][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0032FB34][TaskbarNotificationHandler::addIcon:21] 
+[0032FB34][TaskbarNotificationHandler::addIcon:42] OK
+[0032FAB4][Application::startViewerWithLastSeenPicture:48] 1
+[0032EFB8][StatusFile::StatusFile:10] 
+[0032FAB4][Application::startViewerWithLastSeenPicture:50] 2
+[0032EFB8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032EFB8][StatusFile::lock:52] 
+[0032FAB4][Application::startViewerWithLastSeenPicture:57] 3
+[0032FAB4][Application::startViewerWithLastSeenPicture:60] 4
+[0032FAB4][Application::startViewerWithLastSeenPicture:62] 5
+[0032FAFC][PhotoViewer::startViewer:18] 
+[0032FAFC][PhotoViewer::stopViewer:31] 
+[00433C58][MonitorProcess::MonitorProcess:9] 
+[00433C00][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0032FAFC][PhotoViewer::startViewer:24] 
+[00433C00][ExternalToolLauncher::launch:21] 
+[00433C58][MonitorProcess::start:22] 
+[00433C58][MonitorProcess::runningThread:68] 
+[00433C00][ExternalToolLauncher::launch:47] 
+[0032FAFC][PhotoViewer::startViewer:26] 
+[0032FAB4][Application::startViewerWithLastSeenPicture:64] 6
+[0032FAB4][Application::startViewerWithLastSeenPicture:71] 7
+[0032EFB8][StatusFile::unlock:22] 
+[0032EFB8][StatusFile::unlock:25] closing
+[0032EFB8][StatusFile::~StatusFile:17] 
+[0032FAB4][Application::scanDownloadFolder:81] 8
+[0032FAB4][Application::scanDownloadFolder:84] 9
+[0032FAB4][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0032FAB4][Application::scanDownloadFolder:91] 10
+[0032EF34][StatusFile::StatusFile:10] 
+[0032EF34][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032EF34][StatusFile::lock:52] 
+[0032FAB4][Application::scanDownloadFolder:95] 11
+[0032EF34][StatusFile::getDownloadAvailable:103] ret=0
+[0032EF34][StatusFile::unlock:22] 
+[0032EF34][StatusFile::unlock:25] closing
+[0032EF34][StatusFile::~StatusFile:17] 
+[0032FAD4][DirectoryMonitor::start:41] beg
+[0032FAD4][DirectoryMonitor::start:45] 
+[0032FAD4][DirectoryMonitor::start:52] 
+[0032FAD4][DirectoryMonitor::start:59] 
+[0032FAD4][DirectoryMonitor::start:67] 
+[0032FAD4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0032FAD4][DirectoryMonitor::start:74] end
+[0032FAD4][DirectoryMonitor::threadMethod:94] start
+[0032FB34][TaskbarNotificationHandler::removeIcon:51] 
+[0032FB34][TaskbarNotificationHandler::removeIcon:72] OK
+[0032FAB4][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0032FB34][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00433C00][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00433C58][MonitorProcess::~MonitorProcess:16] 
+[00433C58][MonitorProcess::stop:31] 
+[00433C58][MonitorProcess::stop:35] 
+[00433C58][MonitorProcess::stop:37] 
+[00433C58][MonitorProcess::stop:39] 
+[00433C58][MonitorProcess::runningThread:92] 
+[00433C58][MonitorProcess::stop:56] thread stopped
+[0032FAD4][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0032FAD4][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0032FAD4][DirectoryMonitor::threadMethod:143] finishing
+[0032FAD4][DirectoryMonitor::threadMethod:151] end
+[0032FAD4][DirectoryMonitor::~DirectoryMonitor:33] end
+[0032FD34][DirectoryMonitor::DirectoryMonitor:8] 
+[0032FD94][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0032FD14][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0032FD94][TaskbarNotificationHandler::addIcon:21] 
+[0032FD94][TaskbarNotificationHandler::addIcon:42] OK
+[0032FD14][Application::startViewerWithLastSeenPicture:48] 1
+[0032F218][StatusFile::StatusFile:10] 
+[0032FD14][Application::startViewerWithLastSeenPicture:50] 2
+[0032F218][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032F218][StatusFile::lock:52] 
+[0032FD14][Application::startViewerWithLastSeenPicture:57] 3
+[0032FD14][Application::startViewerWithLastSeenPicture:60] 4
+[0032FD14][Application::startViewerWithLastSeenPicture:62] 5
+[0032FD5C][PhotoViewer::startViewer:18] 
+[0032FD5C][PhotoViewer::stopViewer:31] 
+[003A3C58][MonitorProcess::MonitorProcess:9] 
+[003A3C00][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0032FD5C][PhotoViewer::startViewer:24] 
+[003A3C00][ExternalToolLauncher::launch:21] 
+[003A3C58][MonitorProcess::start:22] 
+[003A3C00][ExternalToolLauncher::launch:47] 
+[0032FD5C][PhotoViewer::startViewer:26] 
+[0032FD14][Application::startViewerWithLastSeenPicture:64] 6
+[0032FD14][Application::startViewerWithLastSeenPicture:71] 7
+[0032F218][StatusFile::unlock:22] 
+[0032F218][StatusFile::unlock:25] closing
+[0032F218][StatusFile::~StatusFile:17] 
+[0032FD14][Application::scanDownloadFolder:81] 8
+[0032FD14][Application::scanDownloadFolder:84] 9
+[0032FD14][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0032FD14][Application::scanDownloadFolder:91] 10
+[0032F194][StatusFile::StatusFile:10] 
+[0032F194][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032F194][StatusFile::lock:52] 
+[0032FD14][Application::scanDownloadFolder:95] 11
+[0032F194][StatusFile::getDownloadAvailable:103] ret=0
+[0032F194][StatusFile::unlock:22] 
+[0032F194][StatusFile::unlock:25] closing
+[0032F194][StatusFile::~StatusFile:17] 
+[0032FD34][DirectoryMonitor::start:41] beg
+[0032FD34][DirectoryMonitor::start:45] 
+[0032FD34][DirectoryMonitor::start:52] 
+[0032FD34][DirectoryMonitor::start:59] 
+[0032FD34][DirectoryMonitor::start:67] 
+[0032FD34][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0032FD34][DirectoryMonitor::threadMethod:94] start
+[0032FD34][DirectoryMonitor::start:74] end
+[003A3C58][MonitorProcess::runningThread:82] ended
+[003A3C00][ExternalToolLauncher::onProcessEnd:60] 
+[0032FD5C][PhotoViewer::onViewerEnd:47] 
+[003A3C58][MonitorProcess::runningThread:92] 
+[0032FD94][TaskbarNotificationHandler::removeIcon:51] 
+[0032FD94][TaskbarNotificationHandler::removeIcon:72] OK
+[0032FD14][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0032FD94][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[003A3C00][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[003A3C58][MonitorProcess::~MonitorProcess:16] 
+[003A3C58][MonitorProcess::stop:31] 
+[003A3C58][MonitorProcess::stop:52] 
+[003A3C58][MonitorProcess::stop:56] thread stopped
+[0032FD34][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0032FD34][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0032FD34][DirectoryMonitor::threadMethod:143] finishing
+[0032FD34][DirectoryMonitor::~DirectoryMonitor:18] join
+[0032FD34][DirectoryMonitor::threadMethod:151] end
+[0032FD34][DirectoryMonitor::~DirectoryMonitor:33] end
+[0034F884][DirectoryMonitor::DirectoryMonitor:8] 
+[0034F8E4][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0034F864][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0034F8E4][TaskbarNotificationHandler::addIcon:21] 
+[0034F8E4][TaskbarNotificationHandler::addIcon:42] OK
+[0034F864][Application::startViewerWithLastSeenPicture:48] 1
+[0034ED68][StatusFile::StatusFile:10] 
+[0034F864][Application::startViewerWithLastSeenPicture:50] 2
+[0034ED68][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0034ED68][StatusFile::lock:52] 
+[0034F864][Application::startViewerWithLastSeenPicture:57] 3
+[0034F864][Application::startViewerWithLastSeenPicture:60] 4
+[0034F864][Application::startViewerWithLastSeenPicture:62] 5
+[0034F8AC][PhotoViewer::startViewer:18] 
+[0034F8AC][PhotoViewer::stopViewer:31] 
+[006F3B78][MonitorProcess::MonitorProcess:9] 
+[006F3B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0034F8AC][PhotoViewer::startViewer:24] 
+[006F3B20][ExternalToolLauncher::launch:21] 
+[006F3B78][MonitorProcess::start:22] 
+[006F3B78][MonitorProcess::runningThread:68] 
+[006F3B20][ExternalToolLauncher::launch:47] 
+[0034F8AC][PhotoViewer::startViewer:26] 
+[0034F864][Application::startViewerWithLastSeenPicture:64] 6
+[0034F864][Application::startViewerWithLastSeenPicture:71] 7
+[0034ED68][StatusFile::unlock:22] 
+[0034ED68][StatusFile::unlock:25] closing
+[0034ED68][StatusFile::~StatusFile:17] 
+[0034F864][Application::scanDownloadFolder:81] 8
+[0034F864][Application::scanDownloadFolder:84] 9
+[0034F864][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0034F864][Application::scanDownloadFolder:91] 10
+[0034ECE4][StatusFile::StatusFile:10] 
+[0034ECE4][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0034ECE4][StatusFile::lock:52] 
+[0034F864][Application::scanDownloadFolder:95] 11
+[0034ECE4][StatusFile::getDownloadAvailable:103] ret=0
+[0034ECE4][StatusFile::unlock:22] 
+[0034ECE4][StatusFile::unlock:25] closing
+[0034ECE4][StatusFile::~StatusFile:17] 
+[0034F884][DirectoryMonitor::start:41] beg
+[0034F884][DirectoryMonitor::start:45] 
+[0034F884][DirectoryMonitor::start:52] 
+[0034F884][DirectoryMonitor::start:59] 
+[0034F884][DirectoryMonitor::start:67] 
+[0034F884][DirectoryMonitor::start:74] end
+[0034F884][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0034F884][DirectoryMonitor::threadMethod:94] start
+[0034F8E4][TaskbarNotificationHandler::removeIcon:51] 
+[0034F8E4][TaskbarNotificationHandler::removeIcon:72] OK
+[0034F864][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0034F8E4][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[006F3B20][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[006F3B78][MonitorProcess::~MonitorProcess:16] 
+[006F3B78][MonitorProcess::stop:31] 
+[006F3B78][MonitorProcess::stop:35] 
+[006F3B78][MonitorProcess::stop:37] 
+[006F3B78][MonitorProcess::stop:39] 
+[006F3B78][MonitorProcess::runningThread:92] 
+[006F3B78][MonitorProcess::stop:56] thread stopped
+[0034F884][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0034F884][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0034F884][DirectoryMonitor::~DirectoryMonitor:18] join
+[0034F884][DirectoryMonitor::threadMethod:143] finishing
+[0034F884][DirectoryMonitor::threadMethod:151] end
+[0034F884][DirectoryMonitor::~DirectoryMonitor:33] end
+[003EFA7C][DirectoryMonitor::DirectoryMonitor:8] 
+[003EFADC][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[003EFA5C][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[003EFADC][TaskbarNotificationHandler::addIcon:21] 
+[003EFADC][TaskbarNotificationHandler::addIcon:42] OK
+[003EFA5C][Application::startViewerWithLastSeenPicture:48] 1
+[003EEF60][StatusFile::StatusFile:10] 
+[003EFA5C][Application::startViewerWithLastSeenPicture:50] 2
+[003EEF60][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003EEF60][StatusFile::lock:52] 
+[003EFA5C][Application::startViewerWithLastSeenPicture:57] 3
+[003EFA5C][Application::startViewerWithLastSeenPicture:60] 4
+[003EFA5C][Application::startViewerWithLastSeenPicture:62] 5
+[003EFAA4][PhotoViewer::startViewer:18] 
+[003EFAA4][PhotoViewer::stopViewer:31] 
+[00753B78][MonitorProcess::MonitorProcess:9] 
+[00753B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[003EFAA4][PhotoViewer::startViewer:24] 
+[00753B20][ExternalToolLauncher::launch:21] 
+[00753B78][MonitorProcess::start:22] 
+[00753B78][MonitorProcess::runningThread:68] 
+[00753B20][ExternalToolLauncher::launch:47] 
+[003EFAA4][PhotoViewer::startViewer:26] 
+[003EFA5C][Application::startViewerWithLastSeenPicture:64] 6
+[003EFA5C][Application::startViewerWithLastSeenPicture:71] 7
+[003EEF60][StatusFile::unlock:22] 
+[003EEF60][StatusFile::unlock:25] closing
+[003EEF60][StatusFile::~StatusFile:17] 
+[003EFA5C][Application::scanDownloadFolder:81] 8
+[003EFA5C][Application::scanDownloadFolder:84] 9
+[003EFA5C][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[003EFA5C][Application::scanDownloadFolder:91] 10
+[003EEEDC][StatusFile::StatusFile:10] 
+[003EEEDC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003EEEDC][StatusFile::lock:52] 
+[003EFA5C][Application::scanDownloadFolder:95] 11
+[003EEEDC][StatusFile::getDownloadAvailable:103] ret=0
+[003EEEDC][StatusFile::unlock:22] 
+[003EEEDC][StatusFile::unlock:25] closing
+[003EEEDC][StatusFile::~StatusFile:17] 
+[003EFA7C][DirectoryMonitor::start:41] beg
+[003EFA7C][DirectoryMonitor::start:45] 
+[003EFA7C][DirectoryMonitor::start:52] 
+[003EFA7C][DirectoryMonitor::start:59] 
+[003EFA7C][DirectoryMonitor::start:67] 
+[003EFA7C][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[003EFA7C][DirectoryMonitor::start:74] end
+[003EFA7C][DirectoryMonitor::threadMethod:94] start
+[00753B78][MonitorProcess::runningThread:82] ended
+[00753B20][ExternalToolLauncher::onProcessEnd:60] 
+[003EFAA4][PhotoViewer::onViewerEnd:47] 
+[00753B78][MonitorProcess::runningThread:92] 
+[0045FA20][DirectoryMonitor::DirectoryMonitor:8] 
+[0045FA80][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0045FA00][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0045FA80][TaskbarNotificationHandler::addIcon:21] 
+[0045FA80][TaskbarNotificationHandler::addIcon:42] OK
+[0045FA00][Application::startViewerWithLastSeenPicture:48] 1
+[0045EF04][StatusFile::StatusFile:10] 
+[0045FA00][Application::startViewerWithLastSeenPicture:50] 2
+[0045EF04][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0045EF04][StatusFile::lock:52] 
+[0045FA00][Application::startViewerWithLastSeenPicture:57] 3
+[0045FA00][Application::startViewerWithLastSeenPicture:60] 4
+[0045FA00][Application::startViewerWithLastSeenPicture:62] 5
+[0045FA48][PhotoViewer::startViewer:18] 
+[0045FA48][PhotoViewer::stopViewer:31] 
+[002A3D78][MonitorProcess::MonitorProcess:9] 
+[002A3D20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0045FA48][PhotoViewer::startViewer:24] 
+[002A3D20][ExternalToolLauncher::launch:21] 
+[002A3D78][MonitorProcess::start:22] 
+[002A3D20][ExternalToolLauncher::launch:47] 
+[002A3D78][MonitorProcess::runningThread:68] 
+[0045FA48][PhotoViewer::startViewer:26] 
+[0045FA00][Application::startViewerWithLastSeenPicture:64] 6
+[0045FA00][Application::startViewerWithLastSeenPicture:71] 7
+[0045EF04][StatusFile::unlock:22] 
+[0045EF04][StatusFile::unlock:25] closing
+[0045EF04][StatusFile::~StatusFile:17] 
+[0045FA00][Application::scanDownloadFolder:81] 8
+[0045FA00][Application::scanDownloadFolder:84] 9
+[0045FA00][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0045FA00][Application::scanDownloadFolder:91] 10
+[0045EE80][StatusFile::StatusFile:10] 
+[0045EE80][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0045EE80][StatusFile::lock:52] 
+[0045FA00][Application::scanDownloadFolder:95] 11
+[0045EE80][StatusFile::getDownloadAvailable:103] ret=0
+[0045EE80][StatusFile::unlock:22] 
+[0045EE80][StatusFile::unlock:25] closing
+[0045EE80][StatusFile::~StatusFile:17] 
+[0045FA20][DirectoryMonitor::start:41] beg
+[0045FA20][DirectoryMonitor::start:45] 
+[0045FA20][DirectoryMonitor::start:52] 
+[0045FA20][DirectoryMonitor::start:59] 
+[0045FA20][DirectoryMonitor::start:67] 
+[0045FA20][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0045FA20][DirectoryMonitor::start:74] end
+[0045FA20][DirectoryMonitor::threadMethod:94] start
+[0045FA80][TaskbarNotificationHandler::removeIcon:51] 
+[0045FA80][TaskbarNotificationHandler::removeIcon:72] OK
+[0045FA00][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0045FA80][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[002A3D20][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[002A3D78][MonitorProcess::~MonitorProcess:16] 
+[002A3D78][MonitorProcess::stop:31] 
+[002A3D78][MonitorProcess::stop:35] 
+[002A3D78][MonitorProcess::stop:37] 
+[002A3D78][MonitorProcess::stop:39] 
+[002A3D78][MonitorProcess::runningThread:92] 
+[002A3D78][MonitorProcess::stop:56] thread stopped
+[0045FA20][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0045FA20][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0045FA20][DirectoryMonitor::threadMethod:143] finishing
+[0045FA20][DirectoryMonitor::threadMethod:151] end
+[0045FA20][DirectoryMonitor::~DirectoryMonitor:33] end
+[002CF7FC][DirectoryMonitor::DirectoryMonitor:8] 
+[002CF85C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[002CF7DC][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[002CF85C][TaskbarNotificationHandler::addIcon:21] 
+[002CF85C][TaskbarNotificationHandler::addIcon:42] OK
+[002CF7DC][Application::startViewerWithLastSeenPicture:48] 1
+[002CECE0][StatusFile::StatusFile:10] 
+[002CF7DC][Application::startViewerWithLastSeenPicture:50] 2
+[002CECE0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002CECE0][StatusFile::lock:52] 
+[002CF7DC][Application::startViewerWithLastSeenPicture:57] 3
+[002CF7DC][Application::startViewerWithLastSeenPicture:60] 4
+[002CF7DC][Application::startViewerWithLastSeenPicture:62] 5
+[002CF824][PhotoViewer::startViewer:18] 
+[002CF824][PhotoViewer::stopViewer:31] 
+[00553B78][MonitorProcess::MonitorProcess:9] 
+[00553B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[002CF824][PhotoViewer::startViewer:24] 
+[00553B20][ExternalToolLauncher::launch:21] 
+[00553B78][MonitorProcess::start:22] 
+[00553B20][ExternalToolLauncher::launch:47] 
+[002CF824][PhotoViewer::startViewer:26] 
+[00553B78][MonitorProcess::runningThread:68] 
+[002CF7DC][Application::startViewerWithLastSeenPicture:64] 6
+[002CF7DC][Application::startViewerWithLastSeenPicture:71] 7
+[002CECE0][StatusFile::unlock:22] 
+[002CECE0][StatusFile::unlock:25] closing
+[002CECE0][StatusFile::~StatusFile:17] 
+[002CF7DC][Application::scanDownloadFolder:81] 8
+[002CF7DC][Application::scanDownloadFolder:84] 9
+[002CF7DC][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[002CF7DC][Application::scanDownloadFolder:91] 10
+[002CEC5C][StatusFile::StatusFile:10] 
+[002CEC5C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002CEC5C][StatusFile::lock:52] 
+[002CF7DC][Application::scanDownloadFolder:95] 11
+[002CEC5C][StatusFile::getDownloadAvailable:103] ret=0
+[002CEC5C][StatusFile::unlock:22] 
+[002CEC5C][StatusFile::unlock:25] closing
+[002CEC5C][StatusFile::~StatusFile:17] 
+[002CF7FC][DirectoryMonitor::start:41] beg
+[002CF7FC][DirectoryMonitor::start:45] 
+[002CF7FC][DirectoryMonitor::start:52] 
+[002CF7FC][DirectoryMonitor::start:59] 
+[002CF7FC][DirectoryMonitor::start:67] 
+[002CF7FC][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[002CF7FC][DirectoryMonitor::start:74] end
+[002CF7FC][DirectoryMonitor::threadMethod:94] start
+[00553B78][MonitorProcess::runningThread:82] ended
+[00553B20][ExternalToolLauncher::onProcessEnd:60] 
+[002CF824][PhotoViewer::onViewerEnd:47] 
+[00553B78][MonitorProcess::runningThread:92] 
+[002CF85C][TaskbarNotificationHandler::removeIcon:51] 
+[002CF85C][TaskbarNotificationHandler::removeIcon:72] OK
+[002CF7DC][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[002CF85C][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00553B20][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00553B78][MonitorProcess::~MonitorProcess:16] 
+[00553B78][MonitorProcess::stop:31] 
+[00553B78][MonitorProcess::stop:52] 
+[00553B78][MonitorProcess::stop:56] thread stopped
+[002CF7FC][DirectoryMonitor::~DirectoryMonitor:14] beg
+[002CF7FC][DirectoryMonitor::~DirectoryMonitor:16] set event
+[002CF7FC][DirectoryMonitor::~DirectoryMonitor:18] join
+[002CF7FC][DirectoryMonitor::threadMethod:143] finishing
+[002CF7FC][DirectoryMonitor::threadMethod:151] end
+[002CF7FC][DirectoryMonitor::~DirectoryMonitor:33] end
+[0042FCEC][DirectoryMonitor::DirectoryMonitor:8] 
+[0042FD4C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0042FCCC][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0042FD4C][TaskbarNotificationHandler::addIcon:21] 
+[0042FD4C][TaskbarNotificationHandler::addIcon:42] OK
+[0042FCCC][Application::startViewerWithLastSeenPicture:48] 1
+[0042F1D0][StatusFile::StatusFile:10] 
+[0042FCCC][Application::startViewerWithLastSeenPicture:50] 2
+[0042F1D0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0042F1D0][StatusFile::lock:52] 
+[0042FCCC][Application::startViewerWithLastSeenPicture:57] 3
+[0042FCCC][Application::startViewerWithLastSeenPicture:60] 4
+[0042FCCC][Application::startViewerWithLastSeenPicture:62] 5
+[0042FD14][PhotoViewer::startViewer:18] 
+[0042FD14][PhotoViewer::stopViewer:31] 
+[00773C58][MonitorProcess::MonitorProcess:9] 
+[00773C00][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0042FD14][PhotoViewer::startViewer:24] 
+[00773C00][ExternalToolLauncher::launch:21] 
+[00773C58][MonitorProcess::start:22] 
+[00773C58][MonitorProcess::runningThread:68] 
+[00773C00][ExternalToolLauncher::launch:47] 
+[0042FD14][PhotoViewer::startViewer:26] 
+[0042FCCC][Application::startViewerWithLastSeenPicture:64] 6
+[0042FCCC][Application::startViewerWithLastSeenPicture:71] 7
+[0042F1D0][StatusFile::unlock:22] 
+[0042F1D0][StatusFile::unlock:25] closing
+[0042F1D0][StatusFile::~StatusFile:17] 
+[0042FCCC][Application::scanDownloadFolder:81] 8
+[0042FCCC][Application::scanDownloadFolder:84] 9
+[0042FCCC][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0042FCCC][Application::scanDownloadFolder:91] 10
+[0042F14C][StatusFile::StatusFile:10] 
+[0042F14C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0042F14C][StatusFile::lock:52] 
+[0042FCCC][Application::scanDownloadFolder:95] 11
+[0042F14C][StatusFile::getDownloadAvailable:103] ret=0
+[0042F14C][StatusFile::unlock:22] 
+[0042F14C][StatusFile::unlock:25] closing
+[0042F14C][StatusFile::~StatusFile:17] 
+[0042FCEC][DirectoryMonitor::start:41] beg
+[0042FCEC][DirectoryMonitor::start:45] 
+[0042FCEC][DirectoryMonitor::start:52] 
+[0042FCEC][DirectoryMonitor::start:59] 
+[0042FCEC][DirectoryMonitor::start:67] 
+[0042FCEC][DirectoryMonitor::start:74] end
+[0042FCEC][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0042FCEC][DirectoryMonitor::threadMethod:94] start
+[00773C58][MonitorProcess::runningThread:82] ended
+[00773C00][ExternalToolLauncher::onProcessEnd:60] 
+[0042FD14][PhotoViewer::onViewerEnd:47] 
+[00773C58][MonitorProcess::runningThread:92] 
+[0042FD4C][TaskbarNotificationHandler::removeIcon:51] 
+[0042FD4C][TaskbarNotificationHandler::removeIcon:72] OK
+[0042FCCC][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0042FD4C][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00773C00][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00773C58][MonitorProcess::~MonitorProcess:16] 
+[00773C58][MonitorProcess::stop:31] 
+[00773C58][MonitorProcess::stop:52] 
+[00773C58][MonitorProcess::stop:56] thread stopped
+[0042FCEC][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0042FCEC][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0042FCEC][DirectoryMonitor::~DirectoryMonitor:18] join
+[0042FCEC][DirectoryMonitor::threadMethod:143] finishing
+[0042FCEC][DirectoryMonitor::threadMethod:151] end
+[0042FCEC][DirectoryMonitor::~DirectoryMonitor:33] end
+[003DF8E4][DirectoryMonitor::DirectoryMonitor:8] 
+[003DF944][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[003DF8C4][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[003DF944][TaskbarNotificationHandler::addIcon:21] 
+[003DF944][TaskbarNotificationHandler::addIcon:42] OK
+[003DF8C4][Application::startViewerWithLastSeenPicture:48] 1
+[003DEDC8][StatusFile::StatusFile:10] 
+[003DF8C4][Application::startViewerWithLastSeenPicture:50] 2
+[003DEDC8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003DEDC8][StatusFile::lock:52] 
+[003DF8C4][Application::startViewerWithLastSeenPicture:57] 3
+[003DF8C4][Application::startViewerWithLastSeenPicture:60] 4
+[003DF8C4][Application::startViewerWithLastSeenPicture:62] 5
+[003DF90C][PhotoViewer::startViewer:18] 
+[003DF90C][PhotoViewer::stopViewer:31] 
+[00743B78][MonitorProcess::MonitorProcess:9] 
+[00743B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[003DF90C][PhotoViewer::startViewer:24] 
+[00743B20][ExternalToolLauncher::launch:21] 
+[00743B78][MonitorProcess::start:22] 
+[00743B78][MonitorProcess::runningThread:68] 
+[00743B20][ExternalToolLauncher::launch:47] 
+[003DF90C][PhotoViewer::startViewer:26] 
+[003DF8C4][Application::startViewerWithLastSeenPicture:64] 6
+[003DF8C4][Application::startViewerWithLastSeenPicture:71] 7
+[003DEDC8][StatusFile::unlock:22] 
+[003DEDC8][StatusFile::unlock:25] closing
+[003DEDC8][StatusFile::~StatusFile:17] 
+[003DF8C4][Application::scanDownloadFolder:81] 8
+[003DF8C4][Application::scanDownloadFolder:84] 9
+[003DF8C4][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[003DF8C4][Application::scanDownloadFolder:91] 10
+[003DED44][StatusFile::StatusFile:10] 
+[003DED44][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003DED44][StatusFile::lock:52] 
+[003DF8C4][Application::scanDownloadFolder:95] 11
+[003DED44][StatusFile::getDownloadAvailable:103] ret=0
+[003DED44][StatusFile::unlock:22] 
+[003DED44][StatusFile::unlock:25] closing
+[003DED44][StatusFile::~StatusFile:17] 
+[003DF8E4][DirectoryMonitor::start:41] beg
+[003DF8E4][DirectoryMonitor::start:45] 
+[003DF8E4][DirectoryMonitor::start:52] 
+[003DF8E4][DirectoryMonitor::start:59] 
+[003DF8E4][DirectoryMonitor::start:67] 
+[003DF8E4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[003DF8E4][DirectoryMonitor::threadMethod:94] start
+[003DF8E4][DirectoryMonitor::start:74] end
+[00743B78][MonitorProcess::runningThread:82] ended
+[00743B20][ExternalToolLauncher::onProcessEnd:60] 
+[003DF90C][PhotoViewer::onViewerEnd:47] 
+[00743B78][MonitorProcess::runningThread:92] 
+[0069FA90][DirectoryMonitor::DirectoryMonitor:8] 
+[0069FAFC][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0069FA68][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0069FAFC][TaskbarNotificationHandler::addIcon:21] 
+[0069FAFC][TaskbarNotificationHandler::addIcon:42] OK
+[0069FA68][Application::startViewerWithLastSeenPicture:48] 1
+[0069E69C][StatusFile::StatusFile:10] 
+[0069FA68][Application::startViewerWithLastSeenPicture:50] 2
+[0069E69C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0069E69C][StatusFile::lock:52] 
+[0069FA68][Application::startViewerWithLastSeenPicture:57] 3
+[0069FA68][Application::startViewerWithLastSeenPicture:60] 4
+[0069FA68][Application::startViewerWithLastSeenPicture:62] 5
+[0069FABC][PhotoViewer::startViewer:18] 
+[0069FABC][PhotoViewer::stopViewer:31] 
+[0079A388][MonitorProcess::MonitorProcess:9] 
+[0079A328][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0069FABC][PhotoViewer::startViewer:24] 
+[0079A328][ExternalToolLauncher::launch:21] 
+[0079A388][MonitorProcess::start:22] 
+[0079A388][MonitorProcess::runningThread:68] 
+[0079A328][ExternalToolLauncher::launch:47] 
+[0069FABC][PhotoViewer::startViewer:26] 
+[0069FA68][Application::startViewerWithLastSeenPicture:64] 6
+[0069FA68][Application::startViewerWithLastSeenPicture:71] 7
+[0069E69C][StatusFile::unlock:22] 
+[0069E69C][StatusFile::unlock:25] closing
+[0069E69C][StatusFile::~StatusFile:17] 
+[0069FA68][Application::scanDownloadFolder:81] 8
+[0069FA68][Application::scanDownloadFolder:84] 9
+[0069FA68][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0069FA68][Application::scanDownloadFolder:91] 10
+[0069E468][StatusFile::StatusFile:10] 
+[0069E468][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0069E468][StatusFile::lock:52] 
+[0069FA68][Application::scanDownloadFolder:95] 11
+[0069E468][StatusFile::getDownloadAvailable:103] ret=0
+[0069E468][StatusFile::unlock:22] 
+[0069E468][StatusFile::unlock:25] closing
+[0069E468][StatusFile::~StatusFile:17] 
+[0069FA90][DirectoryMonitor::start:41] beg
+[0069FA90][DirectoryMonitor::start:45] 
+[0069FA90][DirectoryMonitor::start:52] 
+[0069FA90][DirectoryMonitor::start:59] 
+[0069FA90][DirectoryMonitor::start:67] 
+[0069FA90][DirectoryMonitor::start:74] end
+[0069FA90][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0069FA90][DirectoryMonitor::threadMethod:94] start
+[0079A388][MonitorProcess::runningThread:82] ended
+[0079A328][ExternalToolLauncher::onProcessEnd:60] 
+[0069FABC][PhotoViewer::onViewerEnd:47] 
+[0079A388][MonitorProcess::runningThread:92] 
+[0030FA18][DirectoryMonitor::DirectoryMonitor:8] 
+[0030FA84][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0030F9F0][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0030FA84][TaskbarNotificationHandler::addIcon:21] 
+[0030FA84][TaskbarNotificationHandler::addIcon:42] OK
+[0030F9F0][Application::startViewerWithLastSeenPicture:48] 1
+[0030E624][StatusFile::StatusFile:10] 
+[0030F9F0][Application::startViewerWithLastSeenPicture:50] 2
+[0030E624][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0030E624][StatusFile::lock:52] 
+[0030F9F0][Application::startViewerWithLastSeenPicture:57] 3
+[0030F9F0][Application::startViewerWithLastSeenPicture:60] 4
+[0030F9F0][Application::startViewerWithLastSeenPicture:62] 5
+[0030FA44][PhotoViewer::startViewer:18] 
+[0030FA44][PhotoViewer::stopViewer:31] 
+[0063A390][MonitorProcess::MonitorProcess:9] 
+[0063A330][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0030FA44][PhotoViewer::startViewer:24] 
+[0063A330][ExternalToolLauncher::launch:21] 
+[0063A390][MonitorProcess::start:22] 
+[0063A330][ExternalToolLauncher::launch:47] 
+[0063A390][MonitorProcess::runningThread:68] 
+[0030FA44][PhotoViewer::startViewer:26] 
+[0030F9F0][Application::startViewerWithLastSeenPicture:64] 6
+[0030F9F0][Application::startViewerWithLastSeenPicture:71] 7
+[0030E624][StatusFile::unlock:22] 
+[0030E624][StatusFile::unlock:25] closing
+[0030E624][StatusFile::~StatusFile:17] 
+[0030F9F0][Application::scanDownloadFolder:81] 8
+[0030F9F0][Application::scanDownloadFolder:84] 9
+[0030F9F0][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0030F9F0][Application::scanDownloadFolder:91] 10
+[0030E3F0][StatusFile::StatusFile:10] 
+[0030E3F0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0030E3F0][StatusFile::lock:52] 
+[0030F9F0][Application::scanDownloadFolder:95] 11
+[0030E3F0][StatusFile::getDownloadAvailable:103] ret=0
+[0030E3F0][StatusFile::unlock:22] 
+[0030E3F0][StatusFile::unlock:25] closing
+[0030E3F0][StatusFile::~StatusFile:17] 
+[0030FA18][DirectoryMonitor::start:41] beg
+[0030FA18][DirectoryMonitor::start:45] 
+[0030FA18][DirectoryMonitor::start:52] 
+[0030FA18][DirectoryMonitor::start:59] 
+[0030FA18][DirectoryMonitor::start:67] 
+[0030FA18][DirectoryMonitor::start:74] end
+[0030FA18][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0030FA18][DirectoryMonitor::threadMethod:94] start
+[0028F798][DirectoryMonitor::DirectoryMonitor:8] 
+[0028F804][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0028F770][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0028F804][TaskbarNotificationHandler::addIcon:21] 
+[0028F804][TaskbarNotificationHandler::addIcon:42] OK
+[0028F770][Application::startViewerWithLastSeenPicture:48] 1
+[0028E3A4][StatusFile::StatusFile:10] 
+[0028F770][Application::startViewerWithLastSeenPicture:50] 2
+[0028E3A4][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0028E3A4][StatusFile::lock:52] 
+[0028F770][Application::startViewerWithLastSeenPicture:57] 3
+[0028F770][Application::startViewerWithLastSeenPicture:60] 4
+[0028F770][Application::startViewerWithLastSeenPicture:62] 5
+[0028F7C4][PhotoViewer::startViewer:18] 
+[0028F7C4][PhotoViewer::stopViewer:31] 
+[006B5D18][MonitorProcess::MonitorProcess:9] 
+[006B5CB8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0028F7C4][PhotoViewer::startViewer:24] 
+[006B5CB8][ExternalToolLauncher::launch:21] 
+[006B5D18][MonitorProcess::start:22] 
+[006B5CB8][ExternalToolLauncher::launch:47] 
+[0028F7C4][PhotoViewer::startViewer:26] 
+[0028F770][Application::startViewerWithLastSeenPicture:64] 6
+[0028F770][Application::startViewerWithLastSeenPicture:71] 7
+[0028E3A4][StatusFile::unlock:22] 
+[0028E3A4][StatusFile::unlock:25] closing
+[0028E3A4][StatusFile::~StatusFile:17] 
+[0028F770][Application::scanDownloadFolder:81] 8
+[0028F770][Application::scanDownloadFolder:84] 9
+[0028F770][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0028F770][Application::scanDownloadFolder:91] 10
+[006B5D18][MonitorProcess::runningThread:68] 
+[0028E170][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0028E170][StatusFile::lock:52] 
+[0028F770][Application::scanDownloadFolder:95] 11
+[0028E170][StatusFile::getDownloadAvailable:103] ret=0
+[0028E170][StatusFile::unlock:22] 
+[0028E170][StatusFile::unlock:25] closing
+[0028E170][StatusFile::~StatusFile:17] 
+[0028F798][DirectoryMonitor::start:41] beg
+[0028F798][DirectoryMonitor::start:45] 
+[0028F798][DirectoryMonitor::start:52] 
+[0028F798][DirectoryMonitor::start:59] 
+[0028F798][DirectoryMonitor::start:67] 
+[0028F798][DirectoryMonitor::start:74] end
+[0028F798][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0028F798][DirectoryMonitor::threadMethod:94] start
+[006B5D18][MonitorProcess::runningThread:82] ended
+[006B5CB8][ExternalToolLauncher::onProcessEnd:60] 
+[0028F7C4][PhotoViewer::onViewerEnd:47] 
+[006B5D18][MonitorProcess::runningThread:92] 
+[0026FE00][DirectoryMonitor::DirectoryMonitor:8] 
+[0026FE6C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0026FDD8][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0026FE6C][TaskbarNotificationHandler::addIcon:21] 
+[0026FE6C][TaskbarNotificationHandler::addIcon:42] OK
+[0026FDD8][Application::startViewerWithLastSeenPicture:48] 1
+[0026EA0C][StatusFile::StatusFile:10] 
+[0026FDD8][Application::startViewerWithLastSeenPicture:50] 2
+[0026EA0C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0026EA0C][StatusFile::lock:52] 
+[0026FDD8][Application::startViewerWithLastSeenPicture:57] 3
+[0026FDD8][Application::startViewerWithLastSeenPicture:60] 4
+[0026FDD8][Application::startViewerWithLastSeenPicture:62] 5
+[0026FE2C][PhotoViewer::startViewer:18] 
+[0026FE2C][PhotoViewer::stopViewer:31] 
+[004D9638][MonitorProcess::MonitorProcess:9] 
+[004D95D8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0026FE2C][PhotoViewer::startViewer:24] 
+[004D95D8][ExternalToolLauncher::launch:21] 
+[004D9638][MonitorProcess::start:22] 
+[004D9638][MonitorProcess::runningThread:68] 
+[004D95D8][ExternalToolLauncher::launch:47] 
+[0026FE2C][PhotoViewer::startViewer:26] 
+[0026FDD8][Application::startViewerWithLastSeenPicture:64] 6
+[0026FDD8][Application::startViewerWithLastSeenPicture:71] 7
+[0026EA0C][StatusFile::unlock:22] 
+[0026EA0C][StatusFile::unlock:25] closing
+[0026EA0C][StatusFile::~StatusFile:17] 
+[0026FDD8][Application::scanDownloadFolder:81] 8
+[0026FDD8][Application::scanDownloadFolder:84] 9
+[0026FDD8][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0026FDD8][Application::scanDownloadFolder:91] 10
+[0026E7D8][StatusFile::StatusFile:10] 
+[0026E7D8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0026E7D8][StatusFile::lock:52] 
+[0026FDD8][Application::scanDownloadFolder:95] 11
+[0026E7D8][StatusFile::getDownloadAvailable:103] ret=0
+[0026E7D8][StatusFile::unlock:22] 
+[0026E7D8][StatusFile::unlock:25] closing
+[0026E7D8][StatusFile::~StatusFile:17] 
+[0026FE00][DirectoryMonitor::start:41] beg
+[0026FE00][DirectoryMonitor::start:45] 
+[0026FE00][DirectoryMonitor::start:52] 
+[0026FE00][DirectoryMonitor::start:59] 
+[0026FE00][DirectoryMonitor::start:67] 
+[0026FE00][DirectoryMonitor::start:74] end
+304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0026FE00][DirectoryMonitor::threadMethod:94] start
+[0026FE6C][TaskbarNotificationHandler::removeIcon:51] 
+[0026FE6C][TaskbarNotificationHandler::removeIcon:72] OK
+[0026FDD8][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[0026FE6C][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[004D95D8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004D9638][MonitorProcess::~MonitorProcess:16] 
+[004D9638][MonitorProcess::stop:31] 
+[004D9638][MonitorProcess::stop:35] 
+[004D9638][MonitorProcess::stop:37] 
+[004D9638][MonitorProcess::stop:39] 
+[004D9638][MonitorProcess::runningThread:92] 
+[004D9638][MonitorProcess::stop:56] thread stopped
+[0026FE00][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0026FE00][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0026FE00][DirectoryMonitor::~DirectoryMonitor:18] join
+[0026FE00][DirectoryMonitor::threadMethod:143] finishing
+[0026FE00][DirectoryMonitor::threadMethod:151] end
+[0026FE00][DirectoryMonitor::~DirectoryMonitor:33] end
+[003EF7A0][DirectoryMonitor::DirectoryMonitor:8] 
+[003EF80C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[003EF778][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[003EF80C][TaskbarNotificationHandler::addIcon:21] 
+[003EF80C][TaskbarNotificationHandler::addIcon:42] OK
+[003EF778][Application::startViewerWithLastSeenPicture:48] 1
+[003EE3AC][StatusFile::StatusFile:10] 
+[003EF778][Application::startViewerWithLastSeenPicture:50] 2
+[003EE3AC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003EE3AC][StatusFile::lock:52] 
+[003EF778][Application::startViewerWithLastSeenPicture:57] 3
+[003EF778][Application::startViewerWithLastSeenPicture:60] 4
+[003EF778][Application::startViewerWithLastSeenPicture:62] 5
+[003EF7CC][PhotoViewer::startViewer:18] 
+[003EF7CC][PhotoViewer::stopViewer:31] 
+[0079B238][MonitorProcess::MonitorProcess:9] 
+[0079B1D8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[003EF7CC][PhotoViewer::startViewer:24] 
+[0079B1D8][ExternalToolLauncher::launch:21] 
+[0079B238][MonitorProcess::start:22] 
+[0079B1D8][ExternalToolLauncher::launch:47] 
+[003EF7CC][PhotoViewer::startViewer:26] 
+[003EF778][Application::startViewerWithLastSeenPicture:64] 6
+[003EF778][Application::startViewerWithLastSeenPicture:71] 7
+[003EE3AC][StatusFile::unlock:22] 
+[003EE3AC][StatusFile::unlock:25] closing
+[003EE3AC][StatusFile::~StatusFile:17] 
+[003EF778][Application::scanDownloadFolder:81] 8
+[003EF778][Application::scanDownloadFolder:84] 9
+[003EF778][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[003EF778][Application::scanDownloadFolder:91] 10
+[003EE178][StatusFile::StatusFile:10] 
+[003EE178][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003EE178][StatusFile::lock:52] 
+[003EF778][Application::scanDownloadFolder:95] 11
+[0079B238][MonitorProcess::runningThread:68] 
+[003EE178][StatusFile::getDownloadAvailable:103] ret=0
+[003EE178][StatusFile::unlock:22] 
+[003EE178][StatusFile::unlock:25] closing
+[003EE178][StatusFile::~StatusFile:17] 
+[003EF7A0][DirectoryMonitor::start:41] beg
+[003EF7A0][DirectoryMonitor::start:45] 
+[003EF7A0][DirectoryMonitor::start:52] 
+[003EF7A0][DirectoryMonitor::start:59] 
+[003EF7A0][DirectoryMonitor::start:67] 
+[003EF7A0][DirectoryMonitor::start:74] end
+[003EF7A0][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[003EF7A0][DirectoryMonitor::threadMethod:94] start
+[0034FA30][DirectoryMonitor::DirectoryMonitor:8] 
+[0034FA9C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0034FA08][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0034FA9C][TaskbarNotificationHandler::addIcon:21] 
+[0034FA9C][TaskbarNotificationHandler::addIcon:42] OK
+[0034FA08][Application::startViewerWithLastSeenPicture:48] 1
+[0034E63C][StatusFile::StatusFile:10] 
+[0034FA08][Application::startViewerWithLastSeenPicture:50] 2
+[0034E63C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0034E63C][StatusFile::lock:52] 
+[0034FA08][Application::startViewerWithLastSeenPicture:57] 3
+[0034FA08][Application::startViewerWithLastSeenPicture:60] 4
+[0034FA08][Application::startViewerWithLastSeenPicture:62] 5
+[0034FA5C][PhotoViewer::startViewer:18] 
+[0034FA5C][PhotoViewer::stopViewer:31] 
+[006DB238][MonitorProcess::MonitorProcess:9] 
+[006DB1D8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0034FA5C][PhotoViewer::startViewer:24] 
+[006DB1D8][ExternalToolLauncher::launch:21] 
+[006DB238][MonitorProcess::start:22] 
+[006DB1D8][ExternalToolLauncher::launch:47] 
+
+[0034FA5C][PhotoViewer::startViewer:26] 
+[0034FA08][Application::startViewerWithLastSeenPicture:64] 6
+[0034FA08][Application::startViewerWithLastSeenPicture:71] 7
+[0034E63C][StatusFile::unlock:22] 
+[0034E63C][StatusFile::unlock:25] closing
+[0034E63C][StatusFile::~StatusFile:17] 
+[0034FA08][Application::scanDownloadFolder:81] 8
+[0034FA08][Application::scanDownloadFolder:84] 9
+[0034FA08][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[0034FA08][Application::scanDownloadFolder:91] 10
+[0034E408][StatusFile::StatusFile:10] 
+[0034E408][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0034E408][StatusFile::lock:52] 
+[0034FA08][Application::scanDownloadFolder:95] 11
+[0034E408][StatusFile::getDownloadAvailable:103] ret=0
+[0034E408][StatusFile::unlock:22] 
+[0034E408][StatusFile::unlock:25] closing
+[0034E408][StatusFile::~StatusFile:17] 
+[0034FA30][DirectoryMonitor::start:41] beg
+[0034FA30][DirectoryMonitor::start:45] 
+[0034FA30][DirectoryMonitor::start:52] 
+[0034FA30][DirectoryMonitor::start:59] 
+[0034FA30][DirectoryMonitor::start:67] 
+[0034FA30][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0034FA30][DirectoryMonitor::start:74] end
+] start
+[002EF9E8][DirectoryMonitor::DirectoryMonitor:8] 
+[002EFA54][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[002EF9C0][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[002EFA54][TaskbarNotificationHandler::addIcon:21] 
+[002EFA54][TaskbarNotificationHandler::addIcon:42] OK
+[002EF9C0][Application::startViewerWithLastSeenPicture:48] 1
+[002EE5F4][StatusFile::StatusFile:10] 
+[002EF9C0][Application::startViewerWithLastSeenPicture:50] 2
+[002EE5F4][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002EE5F4][StatusFile::lock:52] 
+[002EF9C0][Application::startViewerWithLastSeenPicture:57] 3
+[002EF9C0][Application::startViewerWithLastSeenPicture:60] 4
+[002EF9C0][Application::startViewerWithLastSeenPicture:62] 5
+[002EFA14][PhotoViewer::startViewer:18] 
+[002EFA14][PhotoViewer::stopViewer:31] 
+[00345D18][MonitorProcess::MonitorProcess:9] 
+[00345CB8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[002EFA14][PhotoViewer::startViewer:24] 
+[00345CB8][ExternalToolLauncher::launch:21] 
+[00345D18][MonitorProcess::start:22] 
+[00345CB8][ExternalToolLauncher::launch:47] 
+[002EFA14][PhotoViewer::startViewer:26] 
+[002EF9C0][Application::startViewerWithLastSeenPicture:64] 6
+[002EF9C0][Application::startViewerWithLastSeenPicture:71] 7
+[002EE5F4][StatusFile::unlock:22] 
+[002EE5F4][StatusFile::unlock:25] closing
+[002EE5F4][StatusFile::~StatusFile:17] 
+[002EF9C0][Application::scanDownloadFolder:81] 8
+[002EF9C0][Application::scanDownloadFolder:84] 9
+[002EF9C0][Application::scanDownloadFolder:87] Application::scanDownloadFolder
+[002EF9C0][Application::scanDownloadFolder:91] 10
+[002EE3C0][StatusFile::StatusFile:10] 
+[002EE3C0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[00345D18][MonitorProcess::runningThread:68] 
+[002EE3C0][StatusFile::lock:52] 
+[002EF9C0][Application::scanDownloadFolder:95] 11
+[002EE3C0][StatusFile::getDownloadAvailable:103] ret=0
+[002EE3C0][StatusFile::unlock:22] 
+[002EE3C0][StatusFile::unlock:25] closing
+[002EE3C0][StatusFile::~StatusFile:17] 
+[002EF9E8][DirectoryMonitor::start:41] beg
+[002EF9E8][DirectoryMonitor::start:45] 
+[002EF9E8][DirectoryMonitor::start:52] 
+[002EF9E8][DirectoryMonitor::start:59] 
+[002EF9E8][DirectoryMonitor::start:67] 
+[002EF9E8][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[002EF9E8][DirectoryMonitor::threadMethod:94] start
+[002EF9E8][DirectoryMonitor::start:74] end
+[002EFA54][TaskbarNotificationHandler::removeIcon:51] 
+[002EFA54][TaskbarNotificationHandler::removeIcon:72] OK
+[002EF9C0][Application::~Application:17] 
+
+
+APPLIACATION END
+
+
+
+[002EFA54][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00345CB8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00345D18][MonitorProcess::~MonitorProcess:16] 
+[00345D18][MonitorProcess::stop:31] 
+[00345D18][MonitorProcess::stop:35] 
+[00345D18][MonitorProcess::stop:37] 
+[00345D18][MonitorProcess::stop:39] 
+[00345D18][MonitorProcess::runningThread:92] 
+[00345D18][MonitorProcess::stop:56] thread stopped
+[002EF9E8][DirectoryMonitor::~DirectoryMonitor:14] beg
+[002EF9E8][DirectoryMonitor::~DirectoryMonitor:16] set event
+[002EF9E8][DirectoryMonitor::~DirectoryMonitor:18] join
+[002EF9E8][DirectoryMonitor::threadMethod:143] finishing
+[002EF9E8][DirectoryMonitor::threadMethod:151] end
+[002EF9E8][DirectoryMonitor::~DirectoryMonitor:33] end
+[0038FA88][DirectoryMonitor::DirectoryMonitor:8] 
+[0038FAF4][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0038FA60][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0038FAF4][TaskbarNotificationHandler::addIcon:21] 
+[0038FAF4][TaskbarNotificationHandler::addIcon:42] OK
+[0038FA60][Application::startViewerWithLastSeenPicture:49] 1
+[0038E694][StatusFile::StatusFile:10] 
+[0038FA60][Application::startViewerWithLastSeenPicture:51] 2
+[0038E694][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0038E694][StatusFile::lock:52] 
+[0038FA60][Application::startViewerWithLastSeenPicture:58] 3
+[0038FA60][Application::startViewerWithLastSeenPicture:61] 4
+[0038FA60][Application::startViewerWithLastSeenPicture:63] 5
+[0038FAB4][PhotoViewer::startViewer:18] 
+[0038FAB4][PhotoViewer::stopViewer:31] 
+[001B5D18][MonitorProcess::MonitorProcess:9] 
+[001B5CB8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0038FAB4][PhotoViewer::startViewer:24] 
+[001B5CB8][ExternalToolLauncher::launch:21] 
+[001B5D18][MonitorProcess::start:22] 
+[001B5CB8][ExternalToolLauncher::launch:47] 
+[0038FAB4][PhotoViewer::startViewer:26] 
+[0038FA60][Application::startViewerWithLastSeenPicture:65] 6
+[001B5D18][MonitorProcess::runningThread:68] 
+[0038FA60][Application::startViewerWithLastSeenPicture:72] 7
+[0038E694][StatusFile::unlock:22] 
+[0038E694][StatusFile::unlock:25] closing
+[0038E694][StatusFile::~StatusFile:17] 
+[0038FA60][Application::scanDownloadFolder:82] 8
+[0038FA60][Application::scanDownloadFolder:85] 9
+[0038FA60][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0038FA60][Application::scanDownloadFolder:92] 10
+[0038E460][StatusFile::StatusFile:10] 
+[0038E460][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0038E460][StatusFile::lock:52] 
+[0038FA60][Application::scanDownloadFolder:96] 11
+[0038E460][StatusFile::getDownloadAvailable:103] ret=0
+[0038E460][StatusFile::unlock:22] 
+[0038E460][StatusFile::unlock:25] closing
+[0038E460][StatusFile::~StatusFile:17] 
+[0038FA88][DirectoryMonitor::start:41] beg
+[0038FA88][DirectoryMonitor::start:45] 
+[0038FA88][DirectoryMonitor::start:52] 
+[0038FA88][DirectoryMonitor::start:59] 
+[0038FA88][DirectoryMonitor::start:67] 
+[0038FA88][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0038FA88][DirectoryMonitor::threadMethod:94] start
+[0038FA88][DirectoryMonitor::start:74] end
+[0038FAF4][TaskbarNotificationHandler::removeIcon:51] 
+[0038FAF4][TaskbarNotificationHandler::removeIcon:72] OK
+[0038FAB4][PhotoViewer::stopViewer:31] 
+[0038FAB4][PhotoViewer::stopViewer:33] 
+[001B5CB8][ExternalToolLauncher::stop:54] 
+[001B5D18][MonitorProcess::terminateProcess:61] 
+[0038FAB4][PhotoViewer::stopViewer:35] 
+[001B5D18][MonitorProcess::runningThread:82] ended
+[001B5CB8][ExternalToolLauncher::onProcessEnd:60] 
+[0038FAB4][PhotoViewer::onViewerEnd:47] 
+[001B5D18][MonitorProcess::runningThread:92] 
+[0038FAB4][PhotoViewer::stopViewer:41] 
+[0038FA60][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0038FAF4][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[001B5CB8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[001B5D18][MonitorProcess::~MonitorProcess:16] 
+[001B5D18][MonitorProcess::stop:31] 
+[001B5D18][MonitorProcess::stop:52] 
+[001B5D18][MonitorProcess::stop:56] thread stopped
+[0038FA88][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0038FA88][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0038FA88][DirectoryMonitor::~DirectoryMonitor:18] join
+[0038FA88][DirectoryMonitor::threadMethod:143] finishing
+[0038FA88][DirectoryMonitor::threadMethod:151] end
+[0038FA88][DirectoryMonitor::~DirectoryMonitor:33] end
+[0038FE18][DirectoryMonitor::DirectoryMonitor:8] 
+[0038FE84][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0038FDF0][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0038FE84][TaskbarNotificationHandler::addIcon:21] 
+[0038FE84][TaskbarNotificationHandler::addIcon:42] OK
+[0038FDF0][Application::startViewerWithLastSeenPicture:49] 1
+[0038EA24][StatusFile::StatusFile:10] 
+[0038FDF0][Application::startViewerWithLastSeenPicture:51] 2
+[0038EA24][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0038EA24][StatusFile::lock:52] 
+[0038FDF0][Application::startViewerWithLastSeenPicture:58] 3
+[0038FDF0][Application::startViewerWithLastSeenPicture:61] 4
+[0038FDF0][Application::startViewerWithLastSeenPicture:63] 5
+[0038FE44][PhotoViewer::startViewer:18] 
+[0038FE44][PhotoViewer::stopViewer:31] 
+[00435D18][MonitorProcess::MonitorProcess:9] 
+[00435CB8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0038FE44][PhotoViewer::startViewer:24] 
+[00435CB8][ExternalToolLauncher::launch:21] 
+[00435D18][MonitorProcess::start:22] 
+[00435CB8][ExternalToolLauncher::launch:47] 
+
+[0038FE44][PhotoViewer::startViewer:26] 
+[0038FDF0][Application::startViewerWithLastSeenPicture:65] 6
+[0038FDF0][Application::startViewerWithLastSeenPicture:72] 7
+[0038EA24][StatusFile::unlock:22] 
+[0038EA24][StatusFile::unlock:25] closing
+[0038EA24][StatusFile::~StatusFile:17] 
+[0038FDF0][Application::scanDownloadFolder:82] 8
+[0038FDF0][Application::scanDownloadFolder:85] 9
+[0038FDF0][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0038FDF0][Application::scanDownloadFolder:92] 10
+[0038E7F0][StatusFile::StatusFile:10] 
+[0038E7F0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0038E7F0][StatusFile::lock:52] 
+[0038FDF0][Application::scanDownloadFolder:96] 11
+[0038E7F0][StatusFile::getDownloadAvailable:103] ret=0
+[0038E7F0][StatusFile::unlock:22] 
+[0038E7F0][StatusFile::unlock:25] closing
+[0038E7F0][StatusFile::~StatusFile:17] 
+[0038FE18][DirectoryMonitor::start:41] beg
+[0038FE18][DirectoryMonitor::start:45] 
+[0038FE18][DirectoryMonitor::start:52] 
+[0038FE18][DirectoryMonitor::start:59] 
+[0038FE18][DirectoryMonitor::start:67] 
+[0038FE18][DirectoryMonitor::start:74] end
+[0038FE18][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0038FE18][DirectoryMonitor::threadMethod:94] start
+[0038FE84][TaskbarNotificationHandler::removeIcon:51] 
+[0038FE84][TaskbarNotificationHandler::removeIcon:72] OK
+[0038FE44][PhotoViewer::stopViewer:31] 
+[0038FE44][PhotoViewer::stopViewer:33] 
+[00435CB8][ExternalToolLauncher::stop:54] 
+[00435D18][MonitorProcess::terminateProcess:61] 
+[0038FE44][PhotoViewer::stopViewer:35] 
+[00435D18][MonitorProcess::runningThread:82] ended
+[00435CB8][ExternalToolLauncher::onProcessEnd:60] 
+[0038FE44][PhotoViewer::onViewerEnd:47] 
+[00435D18][MonitorProcess::runningThread:92] 
+[0038FE44][PhotoViewer::stopViewer:41] 
+[0038FDF0][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0038FE84][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00435CB8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00435D18][MonitorProcess::~MonitorProcess:16] 
+[00435D18][MonitorProcess::stop:31] 
+[00435D18][MonitorProcess::stop:52] 
+[00435D18][MonitorProcess::stop:56] thread stopped
+[0038FE18][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0038FE18][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0038FE18][DirectoryMonitor::threadMethod:143] finishing
+[0038FE18][DirectoryMonitor::threadMethod:151] end
+[0038FE18][DirectoryMonitor::~DirectoryMonitor:18] join
+[0038FE18][DirectoryMonitor::~DirectoryMonitor:33] end
+[003AF6A4][DirectoryMonitor::DirectoryMonitor:8] 
+[003AF710][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[003AF67C][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[003AF710][TaskbarNotificationHandler::addIcon:21] 
+[003AF710][TaskbarNotificationHandler::addIcon:42] OK
+[003AF67C][Application::startViewerWithLastSeenPicture:49] 1
+[003AE2B0][StatusFile::StatusFile:10] 
+[003AF67C][Application::startViewerWithLastSeenPicture:51] 2
+[003AE2B0][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003AE2B0][StatusFile::lock:52] 
+[003AF67C][Application::startViewerWithLastSeenPicture:58] 3
+[003AF67C][Application::startViewerWithLastSeenPicture:61] 4
+[003AF67C][Application::startViewerWithLastSeenPicture:63] 5
+[003AF6D0][PhotoViewer::startViewer:18] 
+[003AF6D0][PhotoViewer::stopViewer:31] 
+[00795D18][MonitorProcess::MonitorProcess:9] 
+[00795CB8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[003AF6D0][PhotoViewer::startViewer:24] 
+[00795CB8][ExternalToolLauncher::launch:21] 
+[00795D18][MonitorProcess::start:22] 
+[00795CB8][ExternalToolLauncher::launch:47] 
+[003AF6D0][PhotoViewer::startViewer:26] 
+[003AF67C][Application::startViewerWithLastSeenPicture:65] 6
+[003AF67C][Application::startViewerWithLastSeenPicture:72] 7
+[003AE2B0][StatusFile::unlock:22] 
+[003AE2B0][StatusFile::unlock:25] closing
+[003AE2B0][StatusFile::~StatusFile:17] 
+[003AF67C][Application::scanDownloadFolder:82] 8
+[003AF67C][Application::scanDownloadFolder:85] 9
+[003AF67C][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[003AF67C][Application::scanDownloadFolder:92] 10
+[003AE07C][StatusFile::StatusFile:10] 
+[003AE07C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[00795D18][MonitorProcess::runningThread:68] 
+[003AE07C][StatusFile::lock:52] 
+[003AF67C][Application::scanDownloadFolder:96] 11
+[003AE07C][StatusFile::getDownloadAvailable:103] ret=0
+[003AE07C][StatusFile::unlock:22] 
+[003AE07C][StatusFile::unlock:25] closing
+[003AE07C][StatusFile::~StatusFile:17] 
+[003AF6A4][DirectoryMonitor::start:41] beg
+[003AF6A4][DirectoryMonitor::start:45] 
+[003AF6A4][DirectoryMonitor::start:52] 
+[003AF6A4][DirectoryMonitor::start:59] 
+[003AF6A4][DirectoryMonitor::start:67] 
+[003AF6A4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[003AF6A4][DirectoryMonitor::start:74] end
+[003AF6A4][DirectoryMonitor::threadMethod:94] start
+[00795D18][MonitorProcess::runningThread:82] ended
+[00795CB8][ExternalToolLauncher::onProcessEnd:60] 
+[003AF6D0][PhotoViewer::onViewerEnd:47] 
+[00795D18][MonitorProcess::runningThread:92] 
+[003AF710][TaskbarNotificationHandler::removeIcon:51] 
+[003AF710][TaskbarNotificationHandler::removeIcon:72] OK
+[003AF6D0][PhotoViewer::stopViewer:31] 
+[003AF67C][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[003AF710][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00795CB8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00795D18][MonitorProcess::~MonitorProcess:16] 
+[00795D18][MonitorProcess::stop:31] 
+[00795D18][MonitorProcess::stop:52] 
+[00795D18][MonitorProcess::stop:56] thread stopped
+[003AF6A4][DirectoryMonitor::~DirectoryMonitor:14] beg
+[003AF6A4][DirectoryMonitor::~DirectoryMonitor:16] set event
+[003AF6A4][DirectoryMonitor::~DirectoryMonitor:18] join
+[003AF6A4][DirectoryMonitor::threadMethod:143] finishing
+[003AF6A4][DirectoryMonitor::threadMethod:151] end
+[003AF6A4][DirectoryMonitor::~DirectoryMonitor:33] end
+[0014FDB8][DirectoryMonitor::DirectoryMonitor:8] 
+[0014FE24][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0014FD90][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0014FE24][TaskbarNotificationHandler::addIcon:21] 
+[0014FE24][TaskbarNotificationHandler::addIcon:42] OK
+[0014FD90][Application::startViewerWithLastSeenPicture:49] 1
+[0014E9C4][StatusFile::StatusFile:10] 
+[0014FD90][Application::startViewerWithLastSeenPicture:51] 2
+[0014E9C4][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0014E9C4][StatusFile::lock:52] 
+[0014FD90][Application::startViewerWithLastSeenPicture:58] 3
+[0014FD90][Application::startViewerWithLastSeenPicture:61] 4
+[0014FD90][Application::startViewerWithLastSeenPicture:63] 5
+[0014FDE4][PhotoViewer::startViewer:18] 
+[0014FDE4][PhotoViewer::stopViewer:31] 
+[0069B238][MonitorProcess::MonitorProcess:9] 
+[0069B1D8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0014FDE4][PhotoViewer::startViewer:24] 
+[0069B1D8][ExternalToolLauncher::launch:21] 
+[0069B238][MonitorProcess::start:22] 
+[0069B1D8][ExternalToolLauncher::launch:47] 
+[0014FDE4][PhotoViewer::startViewer:26] 
+[0014FD90][Application::startViewerWithLastSeenPicture:65] 6
+[0014FD90][Application::startViewerWithLastSeenPicture:72] 7
+[0014E9C4][StatusFile::unlock:22] 
+[0014E9C4][StatusFile::unlock:25] closing
+[0014E9C4][StatusFile::~StatusFile:17] 
+[0014FD90][Application::scanDownloadFolder:82] 8
+[0014FD90][Application::scanDownloadFolder:85] 9
+[0014FD90][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0014FD90][Application::scanDownloadFolder:92] 10
+[0014E790][StatusFile::StatusFile:10] 
+[0014E790][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0069B238][MonitorProcess::runningThread:68] 
+[0014FD90][Application::scanDownloadFolder:96] 11
+[0014E790][StatusFile::getDownloadAvailable:103] ret=0
+[0014E790][StatusFile::unlock:22] 
+[0014E790][StatusFile::unlock:25] closing
+[0014E790][StatusFile::~StatusFile:17] 
+[0014FDB8][DirectoryMonitor::start:41] beg
+[0014FDB8][DirectoryMonitor::start:45] 
+[0014FDB8][DirectoryMonitor::start:52] 
+[0014FDB8][DirectoryMonitor::start:59] 
+[0014FDB8][DirectoryMonitor::start:67] 
+[0014FDB8][DirectoryMonitor::start:74] end
+[0014FDB8][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0014FDB8][DirectoryMonitor::threadMethod:94] start
+[0069B238][MonitorProcess::runningThread:82] ended
+[0069B1D8][ExternalToolLauncher::onProcessEnd:60] 
+[0014FDE4][PhotoViewer::onViewerEnd:47] 
+[0069B238][MonitorProcess::runningThread:92] 
+[0014FE24][TaskbarNotificationHandler::removeIcon:51] 
+[0014FE24][TaskbarNotificationHandler::removeIcon:72] OK
+[0014FDE4][PhotoViewer::stopViewer:31] 
+[0014FD90][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0014FE24][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[0069B1D8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[0069B238][MonitorProcess::~MonitorProcess:16] 
+[0069B238][MonitorProcess::stop:31] 
+[0069B238][MonitorProcess::stop:52] 
+[0069B238][MonitorProcess::stop:56] thread stopped
+[0014FDB8][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0014FDB8][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0014FDB8][DirectoryMonitor::~DirectoryMonitor:18] join
+[0014FDB8][DirectoryMonitor::threadMethod:143] finishing
+[0014FDB8][DirectoryMonitor::threadMethod:151] end
+[0014FDB8][DirectoryMonitor::~DirectoryMonitor:33] end
+[0015F6B0][DirectoryMonitor::DirectoryMonitor:8] 
+[0015F71C][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0015F688][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0015F71C][TaskbarNotificationHandler::addIcon:21] 
+[0015F71C][TaskbarNotificationHandler::addIcon:42] OK
+[0015F688][Application::startViewerWithLastSeenPicture:49] 1
+[0015E2BC][StatusFile::StatusFile:10] 
+[0015F688][Application::startViewerWithLastSeenPicture:51] 2
+[0015E2BC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0015E2BC][StatusFile::lock:52] 
+[0015F688][Application::startViewerWithLastSeenPicture:58] 3
+[0015F688][Application::startViewerWithLastSeenPicture:61] 4
+[0015F688][Application::startViewerWithLastSeenPicture:63] 5
+[0015F6DC][PhotoViewer::startViewer:18] 
+[0015F6DC][PhotoViewer::stopViewer:31] 
+[003CB238][MonitorProcess::MonitorProcess:9] 
+[003CB1D8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0015F6DC][PhotoViewer::startViewer:24] 
+[003CB1D8][ExternalToolLauncher::launch:21] 
+[003CB238][MonitorProcess::start:22] 
+[003CB238][MonitorProcess::runningThread:68] 
+[003CB1D8][ExternalToolLauncher::launch:47] 
+[0015F6DC][PhotoViewer::startViewer:26] 
+[0015F688][Application::startViewerWithLastSeenPicture:65] 6
+[0015F688][Application::startViewerWithLastSeenPicture:72] 7
+[0015E2BC][StatusFile::unlock:22] 
+[0015E2BC][StatusFile::unlock:25] closing
+[0015E2BC][StatusFile::~StatusFile:17] 
+[0015F688][Application::scanDownloadFolder:82] 8
+[0015F688][Application::scanDownloadFolder:85] 9
+[0015F688][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0015F688][Application::scanDownloadFolder:92] 10
+[0015E088][StatusFile::StatusFile:10] 
+[0015E088][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0015E088][StatusFile::lock:52] 
+[0015F688][Application::scanDownloadFolder:96] 11
+[0015E088][StatusFile::getDownloadAvailable:103] ret=0
+[0015E088][StatusFile::unlock:22] 
+[0015E088][StatusFile::unlock:25] closing
+[0015E088][StatusFile::~StatusFile:17] 
+[0015F6B0][DirectoryMonitor::start:41] beg
+[0015F6B0][DirectoryMonitor::start:45] 
+[0015F6B0][DirectoryMonitor::start:52] 
+[0015F6B0][DirectoryMonitor::start:59] 
+[0015F6B0][DirectoryMonitor::start:67] 
+[0015F6B0][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0015F6B0][DirectoryMonitor::threadMethod:94] start
+[0015F6B0][DirectoryMonitor::start:74] end
+[0015F71C][TaskbarNotificationHandler::removeIcon:51] 
+[0015F71C][TaskbarNotificationHandler::removeIcon:72] OK
+[0015F6DC][PhotoViewer::stopViewer:31] 
+[0015F6DC][PhotoViewer::stopViewer:33] 
+[003CB1D8][ExternalToolLauncher::stop:54] 
+[003CB238][MonitorProcess::terminateProcess:61] 
+[0015F6DC][PhotoViewer::stopViewer:35] 
+[003CB238][MonitorProcess::runningThread:82] ended
+[003CB1D8][ExternalToolLauncher::onProcessEnd:60] 
+[0015F6DC][PhotoViewer::onViewerEnd:47] 
+[003CB238][MonitorProcess::runningThread:92] 
+[0015F6DC][PhotoViewer::stopViewer:41] 
+[0015F688][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0015F71C][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[003CB1D8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[003CB238][MonitorProcess::~MonitorProcess:16] 
+[003CB238][MonitorProcess::stop:31] 
+[003CB238][MonitorProcess::stop:52] 
+[003CB238][MonitorProcess::stop:56] thread stopped
+[0015F6B0][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0015F6B0][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0015F6B0][DirectoryMonitor::~DirectoryMonitor:18] join
+[0015F6B0][DirectoryMonitor::threadMethod:143] finishing
+[0015F6B0][DirectoryMonitor::threadMethod:151] end
+[0015F6B0][DirectoryMonitor::~DirectoryMonitor:33] end
+[0031F9D8][DirectoryMonitor::DirectoryMonitor:8] 
+[0031FA38][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0031F9B8][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0031FA38][TaskbarNotificationHandler::addIcon:21] 
+[0031FA38][TaskbarNotificationHandler::addIcon:42] OK
+[0031F9B8][Application::startViewerWithLastSeenPicture:49] 1
+[0031EEBC][StatusFile::StatusFile:10] 
+[0031F9B8][Application::startViewerWithLastSeenPicture:51] 2
+[0031EEBC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0031EEBC][StatusFile::lock:52] 
+[0031F9B8][Application::startViewerWithLastSeenPicture:58] 3
+[0031F9B8][Application::startViewerWithLastSeenPicture:61] 4
+[0031F9B8][Application::startViewerWithLastSeenPicture:63] 5
+[0031FA00][PhotoViewer::startViewer:18] 
+[0031FA00][PhotoViewer::stopViewer:31] 
+[005A3B78][MonitorProcess::MonitorProcess:9] 
+[005A3B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0031FA00][PhotoViewer::startViewer:24] 
+[005A3B20][ExternalToolLauncher::launch:21] 
+[005A3B78][MonitorProcess::start:22] 
+[005A3B78][MonitorProcess::runningThread:68] 
+[005A3B20][ExternalToolLauncher::launch:47] 
+[0031FA00][PhotoViewer::startViewer:26] 
+[0031F9B8][Application::startViewerWithLastSeenPicture:65] 6
+[0031F9B8][Application::startViewerWithLastSeenPicture:72] 7
+[0031EEBC][StatusFile::unlock:22] 
+[0031EEBC][StatusFile::unlock:25] closing
+[0031EEBC][StatusFile::~StatusFile:17] 
+[0031F9B8][Application::scanDownloadFolder:82] 8
+[0031F9B8][Application::scanDownloadFolder:85] 9
+[0031F9B8][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0031F9B8][Application::scanDownloadFolder:92] 10
+[0031EE38][StatusFile::StatusFile:10] 
+[0031EE38][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0031EE38][StatusFile::lock:52] 
+[0031F9B8][Application::scanDownloadFolder:96] 11
+[0031EE38][StatusFile::getDownloadAvailable:103] ret=0
+[0031EE38][StatusFile::unlock:22] 
+[0031EE38][StatusFile::unlock:25] closing
+[0031EE38][StatusFile::~StatusFile:17] 
+[0031F9D8][DirectoryMonitor::start:41] beg
+[0031F9D8][DirectoryMonitor::start:45] 
+[0031F9D8][DirectoryMonitor::start:52] 
+[0031F9D8][DirectoryMonitor::start:59] 
+[0031F9D8][DirectoryMonitor::start:67] 
+[0031F9D8][DirectoryMonitor::start:74] end
+[0031F9D8][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0031F9D8][DirectoryMonitor::threadMethod:94] start
+[005A3B78][MonitorProcess::runningThread:82] ended
+[005A3B20][ExternalToolLauncher::onProcessEnd:60] 
+[0031FA00][PhotoViewer::onViewerEnd:47] 
+[005A3B78][MonitorProcess::runningThread:92] 
+[0031FA38][TaskbarNotificationHandler::removeIcon:51] 
+[0031FA38][TaskbarNotificationHandler::removeIcon:72] OK
+[0031FA00][PhotoViewer::stopViewer:31] 
+[0031F9B8][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0031FA38][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[005A3B20][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[005A3B78][MonitorProcess::~MonitorProcess:16] 
+[005A3B78][MonitorProcess::stop:31] 
+[005A3B78][MonitorProcess::stop:52] 
+[005A3B78][MonitorProcess::stop:56] thread stopped
+[0031F9D8][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0031F9D8][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0031F9D8][DirectoryMonitor::~DirectoryMonitor:18] join
+[0031F9D8][DirectoryMonitor::threadMethod:143] finishing
+[0031F9D8][DirectoryMonitor::threadMethod:151] end
+[0031F9D8][DirectoryMonitor::~DirectoryMonitor:33] end
+[0043F778][DirectoryMonitor::DirectoryMonitor:8] 
+[0043F7D8][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0043F758][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0043F7D8][TaskbarNotificationHandler::addIcon:21] 
+[0043F7D8][TaskbarNotificationHandler::addIcon:42] OK
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EC5C][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EC5C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EC5C][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[00233B48][MonitorProcess::MonitorProcess:9] 
+[00233AF0][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00233AF0][ExternalToolLauncher::launch:21] 
+[00233B48][MonitorProcess::start:22] 
+[00233AF0][ExternalToolLauncher::launch:47] 
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EC5C][StatusFile::unlock:22] 
+[00233B48][MonitorProcess::runningThread:68] 
+[0043EC5C][StatusFile::unlock:25] closing
+[0043EC5C][StatusFile::~StatusFile:17] 
+[0043F758][Application::scanDownloadFolder:82] 8
+[0043F758][Application::scanDownloadFolder:85] 9
+[0043F758][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0043F758][Application::scanDownloadFolder:92] 10
+[0043EBD8][StatusFile::StatusFile:10] 
+[0043EBD8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EBD8][StatusFile::lock:52] 
+[0043F758][Application::scanDownloadFolder:96] 11
+[0043EBD8][StatusFile::getDownloadAvailable:103] ret=0
+[0043EBD8][StatusFile::unlock:22] 
+[0043EBD8][StatusFile::unlock:25] closing
+[0043EBD8][StatusFile::~StatusFile:17] 
+[0043F778][DirectoryMonitor::start:41] beg
+[0043F778][DirectoryMonitor::start:45] 
+[0043F778][DirectoryMonitor::start:52] 
+[0043F778][DirectoryMonitor::start:59] 
+[0043F778][DirectoryMonitor::start:67] 
+[0043F778][DirectoryMonitor::start:74] end
+[0043F778][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0043F778][DirectoryMonitor::threadMethod:94] start
+[00233B48][MonitorProcess::runningThread:82] ended
+[00233AF0][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00233B48][MonitorProcess::runningThread:92] 
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EDFC][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EDFC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EDFC][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[00233CB0][MonitorProcess::MonitorProcess:9] 
+[00233C58][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00233AF0][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00233B48][MonitorProcess::~MonitorProcess:16] 
+[00233B48][MonitorProcess::stop:31] 
+[00233B48][MonitorProcess::stop:52] 
+[00233B48][MonitorProcess::stop:56] thread stopped
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00233C58][ExternalToolLauncher::launch:21] 
+[00233CB0][MonitorProcess::start:22] 
+[00233C58][ExternalToolLauncher::launch:47] 
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EDFC][StatusFile::unlock:22] 
+[0043EDFC][StatusFile::unlock:25] closing
+[0043EDFC][StatusFile::~StatusFile:17] 
+[00233CB0][MonitorProcess::runningThread:68] 
+[00233CB0][MonitorProcess::runningThread:82] ended
+[00233C58][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00233CB0][MonitorProcess::runningThread:92] 
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EDFC][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EDFC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EDFC][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[00249460][MonitorProcess::MonitorProcess:9] 
+[00249408][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00233C58][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00233CB0][MonitorProcess::~MonitorProcess:16] 
+[00233CB0][MonitorProcess::stop:31] 
+[00233CB0][MonitorProcess::stop:52] 
+[00233CB0][MonitorProcess::stop:56] thread stopped
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00249408][ExternalToolLauncher::launch:21] 
+[00249460][MonitorProcess::start:22] 
+[00249408][ExternalToolLauncher::launch:47] 
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EDFC][StatusFile::unlock:22] 
+[00249460][MonitorProcess::runningThread:68] 
+[0043EDFC][StatusFile::unlock:25] closing
+[0043EDFC][StatusFile::~StatusFile:17] 
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EDFC][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EDFC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EDFC][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[0043F7A0][PhotoViewer::stopViewer:33] 
+[00249408][ExternalToolLauncher::stop:54] 
+[00249460][MonitorProcess::terminateProcess:61] 
+[0043F7A0][PhotoViewer::stopViewer:35] 
+[00249460][MonitorProcess::runningThread:82] ended
+[00249408][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00249460][MonitorProcess::runningThread:92] 
+[0043F7A0][PhotoViewer::stopViewer:41] 
+[00235D58][MonitorProcess::MonitorProcess:9] 
+[00235D00][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00249408][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00249460][MonitorProcess::~MonitorProcess:16] 
+[00249460][MonitorProcess::stop:31] 
+[00249460][MonitorProcess::stop:52] 
+[00249460][MonitorProcess::stop:56] thread stopped
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00235D00][ExternalToolLauncher::launch:21] 
+[00235D58][MonitorProcess::start:22] 
+[00235D00][ExternalToolLauncher::launch:47] 
+
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EDFC][StatusFile::unlock:22] 
+[0043EDFC][StatusFile::unlock:25] closing
+[0043EDFC][StatusFile::~StatusFile:17] 
+[00235D58][MonitorProcess::runningThread:82] ended
+[00235D00][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00235D58][MonitorProcess::runningThread:92] 
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EDFC][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EDFC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EDFC][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[00233C58][MonitorProcess::MonitorProcess:9] 
+[00233C00][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00235D00][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00235D58][MonitorProcess::~MonitorProcess:16] 
+[00235D58][MonitorProcess::stop:31] 
+[00235D58][MonitorProcess::stop:52] 
+[00235D58][MonitorProcess::stop:56] thread stopped
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00233C00][ExternalToolLauncher::launch:21] 
+[00233C58][MonitorProcess::start:22] 
+[00233C00][ExternalToolLauncher::launch:47] 
+
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EDFC][StatusFile::unlock:22] 
+[0043EDFC][StatusFile::unlock:25] closing
+[0043EDFC][StatusFile::~StatusFile:17] 
+[00233C58][MonitorProcess::runningThread:82] ended
+[00233C00][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00233C58][MonitorProcess::runningThread:92] 
+[0043F758][Application::startViewerWithLastSeenPicture:49] 1
+[0043EDFC][StatusFile::StatusFile:10] 
+[0043F758][Application::startViewerWithLastSeenPicture:51] 2
+[0043EDFC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0043EDFC][StatusFile::lock:52] 
+[0043F758][Application::startViewerWithLastSeenPicture:58] 3
+[0043F758][Application::startViewerWithLastSeenPicture:61] 4
+[0043F758][Application::startViewerWithLastSeenPicture:63] 5
+[0043F7A0][PhotoViewer::startViewer:18] 
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[00233CF0][MonitorProcess::MonitorProcess:9] 
+[00233C98][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00233C00][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00233C58][MonitorProcess::~MonitorProcess:16] 
+[00233C58][MonitorProcess::stop:31] 
+[00233C58][MonitorProcess::stop:52] 
+[00233C58][MonitorProcess::stop:56] thread stopped
+[0043F7A0][PhotoViewer::startViewer:24] 
+[00233C98][ExternalToolLauncher::launch:21] 
+[00233CF0][MonitorProcess::start:22] 
+[00233C98][ExternalToolLauncher::launch:47] 
+[0043F7A0][PhotoViewer::startViewer:26] 
+[0043F758][Application::startViewerWithLastSeenPicture:65] 6
+[0043F758][Application::startViewerWithLastSeenPicture:72] 7
+[0043EDFC][StatusFile::unlock:22] 
+[0043EDFC][StatusFile::unlock:25] closing
+[0043EDFC][StatusFile::~StatusFile:17] 
+[00233CF0][MonitorProcess::runningThread:68] 
+[00233CF0][MonitorProcess::runningThread:82] ended
+[00233C98][ExternalToolLauncher::onProcessEnd:60] 
+[0043F7A0][PhotoViewer::onViewerEnd:47] 
+[00233CF0][MonitorProcess::runningThread:92] 
+[0043F7D8][TaskbarNotificationHandler::removeIcon:51] 
+[0043F7D8][TaskbarNotificationHandler::removeIcon:72] OK
+[0043F7A0][PhotoViewer::stopViewer:31] 
+[0043F758][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0043F7D8][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00233C98][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00233CF0][MonitorProcess::~MonitorProcess:16] 
+[00233CF0][MonitorProcess::stop:31] 
+[00233CF0][MonitorProcess::stop:52] 
+[00233CF0][MonitorProcess::stop:56] thread stopped
+[0043F778][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0043F778][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0043F778][DirectoryMonitor::~DirectoryMonitor:18] join
+[0043F778][DirectoryMonitor::threadMethod:143] finishing
+[0043F778][DirectoryMonitor::threadMethod:151] end
+[0043F778][DirectoryMonitor::~DirectoryMonitor:33] end
+[0027FBD4][DirectoryMonitor::DirectoryMonitor:8] 
+[0027FC34][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0027FBB4][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0027FC34][TaskbarNotificationHandler::addIcon:21] 
+[0027FC34][TaskbarNotificationHandler::addIcon:42] OK
+[0027FBB4][Application::startViewerWithLastSeenPicture:49] 1
+[0027F0B8][StatusFile::StatusFile:10] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:51] 2
+[0027F0B8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F0B8][StatusFile::lock:52] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:58] 3
+[0027FBB4][Application::startViewerWithLastSeenPicture:61] 4
+[0027FBB4][Application::startViewerWithLastSeenPicture:63] 5
+[0027FBFC][PhotoViewer::startViewer:18] 
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[004A3B48][MonitorProcess::MonitorProcess:9] 
+[004A3AF0][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0027FBFC][PhotoViewer::startViewer:24] 
+[004A3AF0][ExternalToolLauncher::launch:21] 
+[004A3B48][MonitorProcess::start:22] 
+[004A3AF0][ExternalToolLauncher::launch:47] 
+
+[0027FBFC][PhotoViewer::startViewer:26] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:65] 6
+[0027FBB4][Application::startViewerWithLastSeenPicture:72] 7
+[0027F0B8][StatusFile::unlock:22] 
+[0027F0B8][StatusFile::unlock:25] closing
+[0027F0B8][StatusFile::~StatusFile:17] 
+[0027FBB4][Application::scanDownloadFolder:82] 8
+[0027FBB4][Application::scanDownloadFolder:85] 9
+[0027FBB4][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0027FBB4][Application::scanDownloadFolder:92] 10
+[0027F034][StatusFile::StatusFile:10] 
+[0027F034][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F034][StatusFile::lock:52] 
+[0027FBB4][Application::scanDownloadFolder:96] 11
+[0027F034][StatusFile::getDownloadAvailable:103] ret=0
+[0027F034][StatusFile::unlock:22] 
+[0027F034][StatusFile::unlock:25] closing
+[0027F034][StatusFile::~StatusFile:17] 
+[0027FBD4][DirectoryMonitor::start:41] beg
+[0027FBD4][DirectoryMonitor::start:45] 
+[0027FBD4][DirectoryMonitor::start:52] 
+[0027FBD4][DirectoryMonitor::start:59] 
+[0027FBD4][DirectoryMonitor::start:67] 
+[0027FBD4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0027FBD4][DirectoryMonitor::threadMethod:94] start
+[0027FBD4][DirectoryMonitor::start:74] end
+[004A3B48][MonitorProcess::runningThread:82] ended
+[004A3AF0][ExternalToolLauncher::onProcessEnd:60] 
+[0027FBFC][PhotoViewer::onViewerEnd:47] 
+[004A3B48][MonitorProcess::runningThread:92] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:49] 1
+[0027F250][StatusFile::StatusFile:10] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:51] 2
+[0027F250][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F250][StatusFile::lock:52] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:58] 3
+[0027FBB4][Application::startViewerWithLastSeenPicture:61] 4
+[0027FBB4][Application::startViewerWithLastSeenPicture:63] 5
+[0027FBFC][PhotoViewer::startViewer:18] 
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[004A3CB0][MonitorProcess::MonitorProcess:9] 
+[004A3C58][ExternalToolLauncher::ExternalToolLauncher:11] 
+[004A3AF0][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004A3B48][MonitorProcess::~MonitorProcess:16] 
+[004A3B48][MonitorProcess::stop:31] 
+[004A3B48][MonitorProcess::stop:52] 
+[004A3B48][MonitorProcess::stop:56] thread stopped
+[0027FBFC][PhotoViewer::startViewer:24] 
+[004A3C58][ExternalToolLauncher::launch:21] 
+[004A3CB0][MonitorProcess::start:22] 
+[004A3C58][ExternalToolLauncher::launch:47] 
+[0027FBFC][PhotoViewer::startViewer:26] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:65] 6
+[0027FBB4][Application::startViewerWithLastSeenPicture:72] 7
+[0027F250][StatusFile::unlock:22] 
+[0027F250][StatusFile::unlock:25] closing
+[0027F250][StatusFile::~StatusFile:17] 
+[004A3CB0][MonitorProcess::runningThread:68] 
+[004A3CB0][MonitorProcess::runningThread:82] ended
+[004A3C58][ExternalToolLauncher::onProcessEnd:60] 
+[0027FBFC][PhotoViewer::onViewerEnd:47] 
+[004A3CB0][MonitorProcess::runningThread:92] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:49] 1
+[0027F250][StatusFile::StatusFile:10] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:51] 2
+[0027F250][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F250][StatusFile::lock:52] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:58] 3
+[0027FBB4][Application::startViewerWithLastSeenPicture:61] 4
+[0027FBB4][Application::startViewerWithLastSeenPicture:63] 5
+[0027FBFC][PhotoViewer::startViewer:18] 
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[004D5260][MonitorProcess::MonitorProcess:9] 
+[004D5208][ExternalToolLauncher::ExternalToolLauncher:11] 
+[004A3C58][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004A3CB0][MonitorProcess::~MonitorProcess:16] 
+[004A3CB0][MonitorProcess::stop:31] 
+[004A3CB0][MonitorProcess::stop:52] 
+[004A3CB0][MonitorProcess::stop:56] thread stopped
+[0027FBFC][PhotoViewer::startViewer:24] 
+[004D5208][ExternalToolLauncher::launch:21] 
+[004D5260][MonitorProcess::start:22] 
+[004D5208][ExternalToolLauncher::launch:47] 
+[0027FBFC][PhotoViewer::startViewer:26] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:65] 6
+[0027FBB4][Application::startViewerWithLastSeenPicture:72] 7
+[0027F250][StatusFile::unlock:22] 
+[0027F250][StatusFile::unlock:25] closing
+[0027F250][StatusFile::~StatusFile:17] 
+[004D5260][MonitorProcess::runningThread:68] 
+[004D5260][MonitorProcess::runningThread:82] ended
+[004D5208][ExternalToolLauncher::onProcessEnd:60] 
+[0027FBFC][PhotoViewer::onViewerEnd:47] 
+[004D5260][MonitorProcess::runningThread:92] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:49] 1
+[0027F250][StatusFile::StatusFile:10] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:51] 2
+[0027F250][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F250][StatusFile::lock:52] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:58] 3
+[0027FBB4][Application::startViewerWithLastSeenPicture:61] 4
+[0027FBB4][Application::startViewerWithLastSeenPicture:63] 5
+[0027FBFC][PhotoViewer::startViewer:18] 
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[004A3CB0][MonitorProcess::MonitorProcess:9] 
+[004A3C58][ExternalToolLauncher::ExternalToolLauncher:11] 
+[004D5208][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004D5260][MonitorProcess::~MonitorProcess:16] 
+[004D5260][MonitorProcess::stop:31] 
+[004D5260][MonitorProcess::stop:52] 
+[004D5260][MonitorProcess::stop:56] thread stopped
+[0027FBFC][PhotoViewer::startViewer:24] 
+[004A3C58][ExternalToolLauncher::launch:21] 
+[004A3CB0][MonitorProcess::start:22] 
+[004A3CB0][MonitorProcess::runningThread:68] 
+[0027FBFC][PhotoViewer::startViewer:26] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:65] 6
+[0027FBB4][Application::startViewerWithLastSeenPicture:72] 7
+[0027F250][StatusFile::unlock:22] 
+[0027F250][StatusFile::unlock:25] closing
+[0027F250][StatusFile::~StatusFile:17] 
+[004A3CB0][MonitorProcess::runningThread:82] ended
+[004A3C58][ExternalToolLauncher::onProcessEnd:60] 
+[0027FBFC][PhotoViewer::onViewerEnd:47] 
+[004A3CB0][MonitorProcess::runningThread:92] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:49] 1
+[0027F250][StatusFile::StatusFile:10] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:51] 2
+[0027F250][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0027F250][StatusFile::lock:52] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:58] 3
+[0027FBB4][Application::startViewerWithLastSeenPicture:61] 4
+[0027FBB4][Application::startViewerWithLastSeenPicture:63] 5
+[0027FBFC][PhotoViewer::startViewer:18] 
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[004D5260][MonitorProcess::MonitorProcess:9] 
+[004D5208][ExternalToolLauncher::ExternalToolLauncher:11] 
+[004A3C58][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004A3CB0][MonitorProcess::~MonitorProcess:16] 
+[004A3CB0][MonitorProcess::stop:31] 
+[004A3CB0][MonitorProcess::stop:52] 
+[004A3CB0][MonitorProcess::stop:56] thread stopped
+[0027FBFC][PhotoViewer::startViewer:24] 
+[004D5208][ExternalToolLauncher::launch:21] 
+[004D5260][MonitorProcess::start:22] 
+[004D5208][ExternalToolLauncher::launch:47] 
+[0027FBFC][PhotoViewer::startViewer:26] 
+[0027FBB4][Application::startViewerWithLastSeenPicture:65] 6
+[0027FBB4][Application::startViewerWithLastSeenPicture:72] 7
+[0027F250][StatusFile::unlock:22] 
+[0027F250][StatusFile::unlock:25] closing
+[0027F250][StatusFile::~StatusFile:17] 
+[004D5260][MonitorProcess::runningThread:68] 
+[0027FC34][TaskbarNotificationHandler::removeIcon:51] 
+[004D5208][ExternalToolLauncher::onProcessEnd:60] 
+[0027FBFC][PhotoViewer::onViewerEnd:47] 
+[004D5260][MonitorProcess::runningThread:92] 
+[0027FC34][TaskbarNotificationHandler::removeIcon:72] OK
+[0027FBFC][PhotoViewer::stopViewer:31] 
+[0027FBB4][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0027FC34][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[004D5208][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004D5260][MonitorProcess::~MonitorProcess:16] 
+[004D5260][MonitorProcess::stop:31] 
+[004D5260][MonitorProcess::stop:52] 
+[004D5260][MonitorProcess::stop:56] thread stopped
+[0027FBD4][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0027FBD4][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0027FBD4][DirectoryMonitor::~DirectoryMonitor:18] join
+[0027FBD4][DirectoryMonitor::threadMethod:143] finishing
+[0027FBD4][DirectoryMonitor::threadMethod:151] end
+[0027FBD4][DirectoryMonitor::~DirectoryMonitor:33] end
+[0040FC4C][DirectoryMonitor::DirectoryMonitor:8] 
+[0040FCAC][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0040FC2C][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0040FCAC][TaskbarNotificationHandler::addIcon:21] 
+[0040FCAC][TaskbarNotificationHandler::addIcon:42] OK
+[0040FC2C][Application::startViewerWithLastSeenPicture:49] 1
+[0040F130][StatusFile::StatusFile:10] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:51] 2
+[0040F130][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0040F130][StatusFile::lock:52] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:58] 3
+[0040FC2C][Application::startViewerWithLastSeenPicture:61] 4
+[0040FC2C][Application::startViewerWithLastSeenPicture:63] 5
+[0040FC74][PhotoViewer::startViewer:18] 
+[0040FC74][PhotoViewer::stopViewer:31] 
+[007D3A68][MonitorProcess::MonitorProcess:9] 
+[007D3A10][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0040FC74][PhotoViewer::startViewer:24] 
+[007D3A10][ExternalToolLauncher::launch:21] 
+[007D3A68][MonitorProcess::start:22] 
+[007D3A68][MonitorProcess::runningThread:68] 
+[007D3A10][ExternalToolLauncher::launch:47] 
+[0040FC74][PhotoViewer::startViewer:26] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:65] 6
+[0040FC2C][Application::startViewerWithLastSeenPicture:72] 7
+[0040F130][StatusFile::unlock:22] 
+[0040F130][StatusFile::unlock:25] closing
+[0040F130][StatusFile::~StatusFile:17] 
+[0040FC2C][Application::scanDownloadFolder:82] 8
+[0040FC2C][Application::scanDownloadFolder:85] 9
+[0040FC2C][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0040FC2C][Application::scanDownloadFolder:92] 10
+[0040F0AC][StatusFile::StatusFile:10] 
+[0040F0AC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0040F0AC][StatusFile::lock:52] 
+[0040FC2C][Application::scanDownloadFolder:96] 11
+[0040F0AC][StatusFile::getDownloadAvailable:103] ret=0
+[0040F0AC][StatusFile::unlock:22] 
+[0040F0AC][StatusFile::unlock:25] closing
+[0040F0AC][StatusFile::~StatusFile:17] 
+[0040FC4C][DirectoryMonitor::start:41] beg
+[0040FC4C][DirectoryMonitor::start:45] 
+[0040FC4C][DirectoryMonitor::start:52] 
+[0040FC4C][DirectoryMonitor::start:59] 
+[0040FC4C][DirectoryMonitor::start:67] 
+[0040FC4C][DirectoryMonitor::start:74] end
+[0040FC4C][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0040FC4C][DirectoryMonitor::threadMethod:94] start
+[007D3A68][MonitorProcess::runningThread:82] ended
+[007D3A10][ExternalToolLauncher::onProcessEnd:60] 
+[0040FC74][PhotoViewer::onViewerEnd:47] 
+[007D3A68][MonitorProcess::runningThread:92] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:49] 1
+[0040F2C8][StatusFile::StatusFile:10] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:51] 2
+[0040F2C8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0040F2C8][StatusFile::lock:52] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:58] 3
+[0040FC2C][Application::startViewerWithLastSeenPicture:61] 4
+[0040FC2C][Application::startViewerWithLastSeenPicture:63] 5
+[0040FC74][PhotoViewer::startViewer:18] 
+[0040FC74][PhotoViewer::stopViewer:31] 
+[007D5A60][MonitorProcess::MonitorProcess:9] 
+[007D5A08][ExternalToolLauncher::ExternalToolLauncher:11] 
+[007D3A10][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[007D3A68][MonitorProcess::~MonitorProcess:16] 
+[007D3A68][MonitorProcess::stop:31] 
+[007D3A68][MonitorProcess::stop:52] 
+[007D3A68][MonitorProcess::stop:56] thread stopped
+[0040FC74][PhotoViewer::startViewer:24] 
+[007D5A08][ExternalToolLauncher::launch:21] 
+[007D5A60][MonitorProcess::start:22] 
+[007D5A08][ExternalToolLauncher::launch:47] 
+[0040FC74][PhotoViewer::startViewer:26] 
+[0040FC2C][Application::startViewerWithLastSeenPicture:65] 6
+[0040FC2C][Application::startViewerWithLastSeenPicture:72] 7
+[0040F2C8][StatusFile::unlock:22] 
+[0040F2C8][StatusFile::unlock:25] closing
+[0040F2C8][StatusFile::~StatusFile:17] 
+[007D5A60][MonitorProcess::runningThread:68] 
+[007D5A60][MonitorProcess::runningThread:82] ended
+[007D5A08][ExternalToolLauncher::onProcessEnd:60] 
+[0040FC74][PhotoViewer::onViewerEnd:47] 
+[007D5A60][MonitorProcess::runningThread:92] 
+[0040FCAC][TaskbarNotificationHandler::removeIcon:51] 
+[0040FCAC][TaskbarNotificationHandler::removeIcon:72] OK
+[0040FC74][PhotoViewer::stopViewer:31] 
+[0040FC2C][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0040FCAC][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[007D5A08][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[007D5A60][MonitorProcess::~MonitorProcess:16] 
+[007D5A60][MonitorProcess::stop:31] 
+[007D5A60][MonitorProcess::stop:52] 
+[007D5A60][MonitorProcess::stop:56] thread stopped
+[0040FC4C][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0040FC4C][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0040FC4C][DirectoryMonitor::~DirectoryMonitor:18] join
+[0040FC4C][DirectoryMonitor::threadMethod:143] finishing
+[0040FC4C][DirectoryMonitor::threadMethod:151] end
+[0040FC4C][DirectoryMonitor::~DirectoryMonitor:33] end
+[003DFCD8][DirectoryMonitor::DirectoryMonitor:8] 
+[003DFD38][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[003DFCB8][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[003DFD38][TaskbarNotificationHandler::addIcon:21] 
+[003DFD38][TaskbarNotificationHandler::addIcon:42] OK
+[003DFCB8][Application::startViewerWithLastSeenPicture:49] 1
+[003DF1BC][StatusFile::StatusFile:10] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:51] 2
+[003DF1BC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003DF1BC][StatusFile::lock:52] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:58] 3
+[003DFCB8][Application::startViewerWithLastSeenPicture:61] 4
+[003DFCB8][Application::startViewerWithLastSeenPicture:63] 5
+[003DFD00][PhotoViewer::startViewer:18] 
+[003DFD00][PhotoViewer::stopViewer:31] 
+[00493A68][MonitorProcess::MonitorProcess:9] 
+[00493A10][ExternalToolLauncher::ExternalToolLauncher:11] 
+[003DFD00][PhotoViewer::startViewer:24] 
+[00493A10][ExternalToolLauncher::launch:21] 
+[00493A68][MonitorProcess::start:22] 
+[00493A68][MonitorProcess::runningThread:68] 
+[00493A10][ExternalToolLauncher::launch:47] 
+[003DFD00][PhotoViewer::startViewer:26] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:65] 6
+[003DFCB8][Application::startViewerWithLastSeenPicture:72] 7
+[003DF1BC][StatusFile::unlock:22] 
+[003DF1BC][StatusFile::unlock:25] closing
+[003DF1BC][StatusFile::~StatusFile:17] 
+[003DFCB8][Application::scanDownloadFolder:82] 8
+[003DFCB8][Application::scanDownloadFolder:85] 9
+[003DFCB8][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[003DFCB8][Application::scanDownloadFolder:92] 10
+[003DF138][StatusFile::StatusFile:10] 
+[003DF138][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003DF138][StatusFile::lock:52] 
+[003DFCB8][Application::scanDownloadFolder:96] 11
+[003DF138][StatusFile::getDownloadAvailable:103] ret=0
+[003DF138][StatusFile::unlock:22] 
+[003DF138][StatusFile::unlock:25] closing
+[003DF138][StatusFile::~StatusFile:17] 
+[003DFCD8][DirectoryMonitor::start:41] beg
+[003DFCD8][DirectoryMonitor::start:45] 
+[003DFCD8][DirectoryMonitor::start:52] 
+[003DFCD8][DirectoryMonitor::start:59] 
+[003DFCD8][DirectoryMonitor::start:67] 
+[003DFCD8][DirectoryMonitor::start:74] end
+[003DFCD8][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[003DFCD8][DirectoryMonitor::threadMethod:94] start
+[003DFCB8][Application::startViewerWithLastSeenPicture:49] 1
+[003DF354][StatusFile::StatusFile:10] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:51] 2
+[003DF354][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[003DF354][StatusFile::lock:52] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:58] 3
+[003DFCB8][Application::startViewerWithLastSeenPicture:61] 4
+[003DFCB8][Application::startViewerWithLastSeenPicture:63] 5
+[003DFD00][PhotoViewer::startViewer:18] 
+[003DFD00][PhotoViewer::stopViewer:31] 
+[003DFD00][PhotoViewer::stopViewer:33] 
+[00493A10][ExternalToolLauncher::stop:54] 
+[00493A68][MonitorProcess::terminateProcess:61] 
+[003DFD00][PhotoViewer::stopViewer:35] 
+[00493A68][MonitorProcess::runningThread:82] ended
+[00493A10][ExternalToolLauncher::onProcessEnd:60] 
+[003DFD00][PhotoViewer::onViewerEnd:47] 
+[00493A68][MonitorProcess::runningThread:92] 
+[003DFD00][PhotoViewer::stopViewer:41] 
+[00493B78][MonitorProcess::MonitorProcess:9] 
+[00493B20][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00493A10][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00493A68][MonitorProcess::~MonitorProcess:16] 
+[00493A68][MonitorProcess::stop:31] 
+[00493A68][MonitorProcess::stop:52] 
+[00493A68][MonitorProcess::stop:56] thread stopped
+[003DFD00][PhotoViewer::startViewer:24] 
+[00493B20][ExternalToolLauncher::launch:21] 
+[00493B78][MonitorProcess::start:22] 
+[00493B20][ExternalToolLauncher::launch:47] 
+[00493B78][MonitorProcess::runningThread:68] 
+[003DFD00][PhotoViewer::startViewer:26] 
+[003DFCB8][Application::startViewerWithLastSeenPicture:65] 6
+[003DFCB8][Application::startViewerWithLastSeenPicture:72] 7
+[003DF354][StatusFile::unlock:22] 
+[003DF354][StatusFile::unlock:25] closing
+[003DF354][StatusFile::~StatusFile:17] 
+[00493B78][MonitorProcess::runningThread:82] ended
+[00493B20][ExternalToolLauncher::onProcessEnd:60] 
+[003DFD00][PhotoViewer::onViewerEnd:47] 
+[00493B78][MonitorProcess::runningThread:92] 
+[003DFD38][TaskbarNotificationHandler::removeIcon:51] 
+[003DFD38][TaskbarNotificationHandler::removeIcon:72] OK
+[003DFD00][PhotoViewer::stopViewer:31] 
+[003DFCB8][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[003DFD38][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00493B20][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00493B78][MonitorProcess::~MonitorProcess:16] 
+[00493B78][MonitorProcess::stop:31] 
+[00493B78][MonitorProcess::stop:52] 
+[00493B78][MonitorProcess::stop:56] thread stopped
+[003DFCD8][DirectoryMonitor::~DirectoryMonitor:14] beg
+[003DFCD8][DirectoryMonitor::~DirectoryMonitor:16] set event
+[003DFCD8][DirectoryMonitor::~DirectoryMonitor:18] join
+[003DFCD8][DirectoryMonitor::threadMethod:143] finishing
+[003DFCD8][DirectoryMonitor::threadMethod:151] end
+[003DFCD8][DirectoryMonitor::~DirectoryMonitor:33] end
+[002BFD00][DirectoryMonitor::DirectoryMonitor:8] 
+[002BFD60][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[002BFCE0][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[002BFD60][TaskbarNotificationHandler::addIcon:21] 
+[002BFD60][TaskbarNotificationHandler::addIcon:42] OK
+[002BFCE0][Application::startViewerWithLastSeenPicture:49] 1
+[002BF1E4][StatusFile::StatusFile:10] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:51] 2
+[002BF1E4][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002BF1E4][StatusFile::lock:52] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:58] 3
+[002BFCE0][Application::startViewerWithLastSeenPicture:61] 4
+[002BFCE0][Application::startViewerWithLastSeenPicture:63] 5
+[002BFD28][PhotoViewer::startViewer:18] 
+[002BFD28][PhotoViewer::stopViewer:31] 
+[006C3BC8][MonitorProcess::MonitorProcess:9] 
+[006C3B70][ExternalToolLauncher::ExternalToolLauncher:11] 
+[002BFD28][PhotoViewer::startViewer:24] 
+[006C3B70][ExternalToolLauncher::launch:21] 
+[006C3BC8][MonitorProcess::start:22] 
+[006C3BC8][MonitorProcess::runningThread:68] 
+[006C3B70][ExternalToolLauncher::launch:47] 
+[002BFD28][PhotoViewer::startViewer:26] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:65] 6
+[002BFCE0][Application::startViewerWithLastSeenPicture:72] 7
+[002BF1E4][StatusFile::unlock:22] 
+[002BF1E4][StatusFile::unlock:25] closing
+[002BF1E4][StatusFile::~StatusFile:17] 
+[002BFCE0][Application::scanDownloadFolder:82] 8
+[002BFCE0][Application::scanDownloadFolder:85] 9
+[002BFCE0][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[002BFCE0][Application::scanDownloadFolder:92] 10
+[002BF160][StatusFile::StatusFile:10] 
+[002BF160][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002BF160][StatusFile::lock:52] 
+[002BFCE0][Application::scanDownloadFolder:96] 11
+[002BF160][StatusFile::getDownloadAvailable:103] ret=0
+[002BF160][StatusFile::unlock:22] 
+[002BF160][StatusFile::unlock:25] closing
+[002BF160][StatusFile::~StatusFile:17] 
+[002BFD00][DirectoryMonitor::start:41] beg
+[002BFD00][DirectoryMonitor::start:45] 
+[002BFD00][DirectoryMonitor::start:52] 
+[002BFD00][DirectoryMonitor::start:59] 
+[002BFD00][DirectoryMonitor::start:67] 
+[002BFD00][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[002BFD00][DirectoryMonitor::threadMethod:94] start
+[002BFD00][DirectoryMonitor::start:74] end
+[002BFCE0][Application::startViewerWithLastSeenPicture:49] 1
+[002BF37C][StatusFile::StatusFile:10] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:51] 2
+[002BF37C][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[002BF37C][StatusFile::lock:52] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:58] 3
+[002BFCE0][Application::startViewerWithLastSeenPicture:61] 4
+[002BFCE0][Application::startViewerWithLastSeenPicture:63] 5
+[002BFD28][PhotoViewer::startViewer:18] 
+[002BFD28][PhotoViewer::stopViewer:31] 
+[002BFD28][PhotoViewer::stopViewer:33] 
+[006C3B70][ExternalToolLauncher::stop:54] 
+[006C3BC8][MonitorProcess::terminateProcess:61] 
+[002BFD28][PhotoViewer::stopViewer:35] 
+[006C3BC8][MonitorProcess::runningThread:82] ended
+[006C3B70][ExternalToolLauncher::onProcessEnd:60] 
+[002BFD28][PhotoViewer::onViewerEnd:47] 
+[006C3BC8][MonitorProcess::runningThread:92] 
+[002BFD28][PhotoViewer::stopViewer:41] 
+[006C3C60][MonitorProcess::MonitorProcess:9] 
+[006C3C08][ExternalToolLauncher::ExternalToolLauncher:11] 
+[006C3B70][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[006C3BC8][MonitorProcess::~MonitorProcess:16] 
+[006C3BC8][MonitorProcess::stop:31] 
+[006C3BC8][MonitorProcess::stop:52] 
+[006C3BC8][MonitorProcess::stop:56] thread stopped
+[002BFD28][PhotoViewer::startViewer:24] 
+[006C3C08][ExternalToolLauncher::launch:21] 
+[006C3C60][MonitorProcess::start:22] 
+[006C3C60][MonitorProcess::runningThread:68] 
+[006C3C08][ExternalToolLauncher::launch:47] 
+[002BFD28][PhotoViewer::startViewer:26] 
+[002BFCE0][Application::startViewerWithLastSeenPicture:65] 6
+[002BFCE0][Application::startViewerWithLastSeenPicture:72] 7
+[002BF37C][StatusFile::unlock:22] 
+[002BF37C][StatusFile::unlock:25] closing
+[002BF37C][StatusFile::~StatusFile:17] 
+[006C3C60][MonitorProcess::runningThread:82] ended
+[006C3C08][ExternalToolLauncher::onProcessEnd:60] 
+[002BFD28][PhotoViewer::onViewerEnd:47] 
+[006C3C60][MonitorProcess::runningThread:92] 
+[002BFD60][TaskbarNotificationHandler::removeIcon:51] 
+[002BFD60][TaskbarNotificationHandler::removeIcon:72] OK
+[002BFD28][PhotoViewer::stopViewer:31] 
+[002BFCE0][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[002BFD60][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[006C3C08][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[006C3C60][MonitorProcess::~MonitorProcess:16] 
+[006C3C60][MonitorProcess::stop:31] 
+[006C3C60][MonitorProcess::stop:52] 
+[006C3C60][MonitorProcess::stop:56] thread stopped
+[002BFD00][DirectoryMonitor::~DirectoryMonitor:14] beg
+[002BFD00][DirectoryMonitor::~DirectoryMonitor:16] set event
+[002BFD00][DirectoryMonitor::~DirectoryMonitor:18] join
+[002BFD00][DirectoryMonitor::threadMethod:143] finishing
+[002BFD00][DirectoryMonitor::threadMethod:151] end
+[002BFD00][DirectoryMonitor::~DirectoryMonitor:33] end
+[0032F6C8][DirectoryMonitor::DirectoryMonitor:8] 
+[0032F728][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0032F6A8][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0032F728][TaskbarNotificationHandler::addIcon:21] 
+[0032F728][TaskbarNotificationHandler::addIcon:42] OK
+[0032F6A8][Application::startViewerWithLastSeenPicture:49] 1
+[0032EBAC][StatusFile::StatusFile:10] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:51] 2
+[0032EBAC][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032EBAC][StatusFile::lock:52] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:58] 3
+[0032F6A8][Application::startViewerWithLastSeenPicture:61] 4
+[0032F6A8][Application::startViewerWithLastSeenPicture:63] 5
+[0032F6F0][PhotoViewer::startViewer:18] 
+[0032F6F0][PhotoViewer::stopViewer:31] 
+[00413A68][MonitorProcess::MonitorProcess:9] 
+[00413A10][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0032F6F0][PhotoViewer::startViewer:24] 
+[00413A10][ExternalToolLauncher::launch:21] 
+[00413A68][MonitorProcess::start:22] 
+[00413A68][MonitorProcess::runningThread:68] 
+[0032F6F0][PhotoViewer::startViewer:26] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:65] 6
+[0032F6A8][Application::startViewerWithLastSeenPicture:72] 7
+[0032EBAC][StatusFile::unlock:22] 
+[0032EBAC][StatusFile::unlock:25] closing
+[0032EBAC][StatusFile::~StatusFile:17] 
+[0032F6A8][Application::scanDownloadFolder:82] 8
+[0032F6A8][Application::scanDownloadFolder:85] 9
+[0032F6A8][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0032F6A8][Application::scanDownloadFolder:92] 10
+[0032EB28][StatusFile::StatusFile:10] 
+[0032EB28][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032EB28][StatusFile::lock:52] 
+[0032F6A8][Application::scanDownloadFolder:96] 11
+[0032EB28][StatusFile::getDownloadAvailable:103] ret=0
+[0032EB28][StatusFile::unlock:22] 
+[0032EB28][StatusFile::unlock:25] closing
+[0032EB28][StatusFile::~StatusFile:17] 
+[0032F6C8][DirectoryMonitor::start:41] beg
+[0032F6C8][DirectoryMonitor::start:45] 
+[0032F6C8][DirectoryMonitor::start:52] 
+[0032F6C8][DirectoryMonitor::start:59] 
+[0032F6C8][DirectoryMonitor::start:67] 
+[0032F6C8][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0032F6C8][DirectoryMonitor::threadMethod:94] start
+[0032F6C8][DirectoryMonitor::start:74] end
+[00413A68][MonitorProcess::runningThread:82] ended
+[00413A10][ExternalToolLauncher::onProcessEnd:60] 
+[0032F6F0][PhotoViewer::onViewerEnd:47] 
+[00413A68][MonitorProcess::runningThread:92] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:49] 1
+[0032ED44][StatusFile::StatusFile:10] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:51] 2
+[0032ED44][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032ED44][StatusFile::lock:52] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:58] 3
+[0032F6A8][Application::startViewerWithLastSeenPicture:61] 4
+[0032F6A8][Application::startViewerWithLastSeenPicture:63] 5
+[0032F6F0][PhotoViewer::startViewer:18] 
+[0032F6F0][PhotoViewer::stopViewer:31] 
+[004159A0][MonitorProcess::MonitorProcess:9] 
+[00415948][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00413A10][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00413A68][MonitorProcess::~MonitorProcess:16] 
+[00413A68][MonitorProcess::stop:31] 
+[00413A68][MonitorProcess::stop:52] 
+[00413A68][MonitorProcess::stop:56] thread stopped
+[0032F6F0][PhotoViewer::startViewer:24] 
+[00415948][ExternalToolLauncher::launch:21] 
+[004159A0][MonitorProcess::start:22] 
+[004159A0][MonitorProcess::runningThread:68] 
+[00415948][ExternalToolLauncher::launch:47] 
+[0032F6F0][PhotoViewer::startViewer:26] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:65] 6
+[0032F6A8][Application::startViewerWithLastSeenPicture:72] 7
+[0032ED44][StatusFile::unlock:22] 
+[0032ED44][StatusFile::unlock:25] closing
+[0032ED44][StatusFile::~StatusFile:17] 
+[004159A0][MonitorProcess::runningThread:82] ended
+[00415948][ExternalToolLauncher::onProcessEnd:60] 
+[0032F6F0][PhotoViewer::onViewerEnd:47] 
+[004159A0][MonitorProcess::runningThread:92] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:49] 1
+[0032ED44][StatusFile::StatusFile:10] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:51] 2
+[0032ED44][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0032ED44][StatusFile::lock:52] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:58] 3
+[0032F6A8][Application::startViewerWithLastSeenPicture:61] 4
+[0032F6A8][Application::startViewerWithLastSeenPicture:63] 5
+[0032F6F0][PhotoViewer::startViewer:18] 
+[0032F6F0][PhotoViewer::stopViewer:31] 
+[004454A8][MonitorProcess::MonitorProcess:9] 
+[00445450][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00415948][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004159A0][MonitorProcess::~MonitorProcess:16] 
+[004159A0][MonitorProcess::stop:31] 
+[004159A0][MonitorProcess::stop:52] 
+[004159A0][MonitorProcess::stop:56] thread stopped
+[0032F6F0][PhotoViewer::startViewer:24] 
+[00445450][ExternalToolLauncher::launch:21] 
+[004454A8][MonitorProcess::start:22] 
+[004454A8][MonitorProcess::runningThread:68] 
+[00445450][ExternalToolLauncher::launch:47] 
+[0032F6F0][PhotoViewer::startViewer:26] 
+[0032F6A8][Application::startViewerWithLastSeenPicture:65] 6
+[0032F6A8][Application::startViewerWithLastSeenPicture:72] 7
+[0032ED44][StatusFile::unlock:22] 
+[0032ED44][StatusFile::unlock:25] closing
+[0032ED44][StatusFile::~StatusFile:17] 
+[004454A8][MonitorProcess::runningThread:82] ended
+[00445450][ExternalToolLauncher::onProcessEnd:60] 
+[0032F6F0][PhotoViewer::onViewerEnd:47] 
+[004454A8][MonitorProcess::runningThread:92] 
+[0032F728][TaskbarNotificationHandler::removeIcon:51] 
+[0032F728][TaskbarNotificationHandler::removeIcon:72] OK
+[0032F6F0][PhotoViewer::stopViewer:31] 
+[0032F6A8][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0032F728][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[00445450][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[004454A8][MonitorProcess::~MonitorProcess:16] 
+[004454A8][MonitorProcess::stop:31] 
+[004454A8][MonitorProcess::stop:52] 
+[004454A8][MonitorProcess::stop:56] thread stopped
+[0032F6C8][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0032F6C8][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0032F6C8][DirectoryMonitor::~DirectoryMonitor:18] join
+[0032F6C8][DirectoryMonitor::threadMethod:143] finishing
+[0032F6C8][DirectoryMonitor::threadMethod:151] end
+[0032F6C8][DirectoryMonitor::~DirectoryMonitor:33] end
+[0014F9D4][DirectoryMonitor::DirectoryMonitor:8] 
+[0014FA34][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0014F9B4][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0014FA34][TaskbarNotificationHandler::addIcon:21] 
+[0014FA34][TaskbarNotificationHandler::addIcon:42] OK
+[0014F9B4][Application::startViewerWithLastSeenPicture:49] 1
+[0014EEB8][StatusFile::StatusFile:10] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:51] 2
+[0014EEB8][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0014EEB8][StatusFile::lock:52] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:58] 3
+[0014F9B4][Application::startViewerWithLastSeenPicture:61] 4
+[0014F9B4][Application::startViewerWithLastSeenPicture:63] 5
+[0014F9FC][PhotoViewer::startViewer:18] 
+[0014F9FC][PhotoViewer::stopViewer:31] 
+[00713A68][MonitorProcess::MonitorProcess:9] 
+[00713A10][ExternalToolLauncher::ExternalToolLauncher:11] 
+[0014F9FC][PhotoViewer::startViewer:24] 
+[00713A10][ExternalToolLauncher::launch:21] 
+[00713A68][MonitorProcess::start:22] 
+[00713A10][ExternalToolLauncher::launch:47] 
+
+[0014F9FC][PhotoViewer::startViewer:26] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:65] 6
+[0014F9B4][Application::startViewerWithLastSeenPicture:72] 7
+[0014EEB8][StatusFile::unlock:22] 
+[0014EEB8][StatusFile::unlock:25] closing
+[0014EEB8][StatusFile::~StatusFile:17] 
+[0014F9B4][Application::scanDownloadFolder:82] 8
+[0014F9B4][Application::scanDownloadFolder:85] 9
+[0014F9B4][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[0014F9B4][Application::scanDownloadFolder:92] 10
+[0014EE34][StatusFile::StatusFile:10] 
+[0014EE34][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0014EE34][StatusFile::lock:52] 
+[0014F9B4][Application::scanDownloadFolder:96] 11
+[0014EE34][StatusFile::getDownloadAvailable:103] ret=0
+[0014EE34][StatusFile::unlock:22] 
+[0014EE34][StatusFile::unlock:25] closing
+[0014EE34][StatusFile::~StatusFile:17] 
+[0014F9D4][DirectoryMonitor::start:41] beg
+[0014F9D4][DirectoryMonitor::start:45] 
+[0014F9D4][DirectoryMonitor::start:52] 
+[0014F9D4][DirectoryMonitor::start:59] 
+[0014F9D4][DirectoryMonitor::start:67] 
+[0014F9D4][DirectoryMonitor::start:74] end
+[0014F9D4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0014F9D4][DirectoryMonitor::threadMethod:94] start
+[00713A68][MonitorProcess::runningThread:82] ended
+[00713A10][ExternalToolLauncher::onProcessEnd:60] 
+[0014F9FC][PhotoViewer::onViewerEnd:47] 
+[00713A68][MonitorProcess::runningThread:92] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:49] 1
+[0014F050][StatusFile::StatusFile:10] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:51] 2
+[0014F050][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0014F050][StatusFile::lock:52] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:58] 3
+[0014F9B4][Application::startViewerWithLastSeenPicture:61] 4
+[0014F9B4][Application::startViewerWithLastSeenPicture:63] 5
+[0014F9FC][PhotoViewer::startViewer:18] 
+[0014F9FC][PhotoViewer::stopViewer:31] 
+[00749850][MonitorProcess::MonitorProcess:9] 
+[007497F8][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00713A10][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00713A68][MonitorProcess::~MonitorProcess:16] 
+[00713A68][MonitorProcess::stop:31] 
+[00713A68][MonitorProcess::stop:52] 
+[00713A68][MonitorProcess::stop:56] thread stopped
+[0014F9FC][PhotoViewer::startViewer:24] 
+[007497F8][ExternalToolLauncher::launch:21] 
+[00749850][MonitorProcess::start:22] 
+[007497F8][ExternalToolLauncher::launch:47] 
+[0014F9FC][PhotoViewer::startViewer:26] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:65] 6
+[0014F9B4][Application::startViewerWithLastSeenPicture:72] 7
+[00749850][MonitorProcess::runningThread:68] 
+[0014F050][StatusFile::unlock:22] 
+[0014F050][StatusFile::unlock:25] closing
+[0014F050][StatusFile::~StatusFile:17] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:49] 1
+[0014F050][StatusFile::StatusFile:10] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:51] 2
+[0014F050][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[0014F050][StatusFile::lock:52] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:58] 3
+[0014F9B4][Application::startViewerWithLastSeenPicture:61] 4
+[0014F9B4][Application::startViewerWithLastSeenPicture:63] 5
+[0014F9FC][PhotoViewer::startViewer:18] 
+[0014F9FC][PhotoViewer::stopViewer:31] 
+[0014F9FC][PhotoViewer::stopViewer:33] 
+[007497F8][ExternalToolLauncher::stop:54] 
+[00749850][MonitorProcess::terminateProcess:61] 
+[0014F9FC][PhotoViewer::stopViewer:35] 
+[00749850][MonitorProcess::runningThread:82] ended
+[007497F8][ExternalToolLauncher::onProcessEnd:60] 
+[0014F9FC][PhotoViewer::onViewerEnd:47] 
+[00749850][MonitorProcess::runningThread:92] 
+[0014F9FC][PhotoViewer::stopViewer:41] 
+[0074CE88][MonitorProcess::MonitorProcess:9] 
+[0074CE30][ExternalToolLauncher::ExternalToolLauncher:11] 
+[007497F8][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00749850][MonitorProcess::~MonitorProcess:16] 
+[00749850][MonitorProcess::stop:31] 
+[00749850][MonitorProcess::stop:52] 
+[00749850][MonitorProcess::stop:56] thread stopped
+[0014F9FC][PhotoViewer::startViewer:24] 
+[0074CE30][ExternalToolLauncher::launch:21] 
+[0074CE88][MonitorProcess::start:22] 
+[0074CE88][MonitorProcess::runningThread:68] 
+[0014F9FC][PhotoViewer::startViewer:26] 
+[0014F9B4][Application::startViewerWithLastSeenPicture:65] 6
+[0014F9B4][Application::startViewerWithLastSeenPicture:72] 7
+[0014F050][StatusFile::unlock:22] 
+[0014F050][StatusFile::unlock:25] closing
+[0014F050][StatusFile::~StatusFile:17] 
+[0074CE88][MonitorProcess::runningThread:82] ended
+[0074CE30][ExternalToolLauncher::onProcessEnd:60] 
+[0014F9FC][PhotoViewer::onViewerEnd:47] 
+[0074CE88][MonitorProcess::runningThread:92] 
+[0014FA34][TaskbarNotificationHandler::removeIcon:51] 
+[0014FA34][TaskbarNotificationHandler::removeIcon:72] OK
+[0014F9FC][PhotoViewer::stopViewer:31] 
+[0014F9B4][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[0014FA34][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[0074CE30][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[0074CE88][MonitorProcess::~MonitorProcess:16] 
+[0074CE88][MonitorProcess::stop:31] 
+[0074CE88][MonitorProcess::stop:52] 
+[0074CE88][MonitorProcess::stop:56] thread stopped
+[0014F9D4][DirectoryMonitor::~DirectoryMonitor:14] beg
+[0014F9D4][DirectoryMonitor::~DirectoryMonitor:16] set event
+[0014F9D4][DirectoryMonitor::~DirectoryMonitor:18] join
+[0014F9D4][DirectoryMonitor::threadMethod:143] finishing
+[0014F9D4][DirectoryMonitor::threadMethod:151] end
+[0014F9D4][DirectoryMonitor::~DirectoryMonitor:33] end
+[001EFBB4][DirectoryMonitor::DirectoryMonitor:8] 
+[001EFC14][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[001EFB94][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[001EFC14][TaskbarNotificationHandler::addIcon:21] 
+[001EFC14][TaskbarNotificationHandler::addIcon:42] OK
+[001EFB94][Application::startViewerWithLastSeenPicture:49] 1
+[001EF098][StatusFile::StatusFile:10] 
+[001EFB94][Application::startViewerWithLastSeenPicture:51] 2
+[001EF098][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[001EF098][StatusFile::lock:52] 
+[001EFB94][Application::startViewerWithLastSeenPicture:58] 3
+[001EFB94][Application::startViewerWithLastSeenPicture:61] 4
+[001EFB94][Application::startViewerWithLastSeenPicture:63] 5
+[001EFBDC][PhotoViewer::startViewer:18] 
+[001EFBDC][PhotoViewer::stopViewer:31] 
+[00473A68][MonitorProcess::MonitorProcess:9] 
+[00473A10][ExternalToolLauncher::ExternalToolLauncher:11] 
+[001EFBDC][PhotoViewer::startViewer:24] 
+[00473A10][ExternalToolLauncher::launch:21] 
+[00473A68][MonitorProcess::start:22] 
+[00473A68][MonitorProcess::runningThread:68] 
+[001EFBDC][PhotoViewer::startViewer:26] 
+[001EFB94][Application::startViewerWithLastSeenPicture:65] 6
+[001EFB94][Application::startViewerWithLastSeenPicture:72] 7
+[001EF098][StatusFile::unlock:22] 
+[001EF098][StatusFile::unlock:25] closing
+[001EF098][StatusFile::~StatusFile:17] 
+[001EFB94][Application::scanDownloadFolder:82] 8
+[001EFB94][Application::scanDownloadFolder:85] 9
+[001EFB94][Application::scanDownloadFolder:88] Application::scanDownloadFolder
+[001EFB94][Application::scanDownloadFolder:92] 10
+[001EF014][StatusFile::StatusFile:10] 
+[001EF014][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[001EF014][StatusFile::lock:52] 
+[001EFB94][Application::scanDownloadFolder:96] 11
+[001EF014][StatusFile::getDownloadAvailable:103] ret=0
+[001EF014][StatusFile::unlock:22] 
+[001EF014][StatusFile::unlock:25] closing
+[001EF014][StatusFile::~StatusFile:17] 
+[001EFBB4][DirectoryMonitor::start:41] beg
+[001EFBB4][DirectoryMonitor::start:45] 
+[001EFBB4][DirectoryMonitor::start:52] 
+[001EFBB4][DirectoryMonitor::start:59] 
+[001EFBB4][DirectoryMonitor::start:67] 
+[001EFBB4][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[001EFBB4][DirectoryMonitor::start:74] end
+[001EFBB4][DirectoryMonitor::threadMethod:94] start
+[001EFB94][Application::startViewerWithLastSeenPicture:49] 1
+[001EF230][StatusFile::StatusFile:10] 
+[001EFB94][Application::startViewerWithLastSeenPicture:51] 2
+[001EF230][StatusFile::lock:50] file=C:\projekty\slideshow\SharePic\zdjecia\pobrane\status\status.txt
+[001EF230][StatusFile::lock:52] 
+[001EFB94][Application::startViewerWithLastSeenPicture:58] 3
+[001EFB94][Application::startViewerWithLastSeenPicture:61] 4
+[001EFB94][Application::startViewerWithLastSeenPicture:63] 5
+[001EFBDC][PhotoViewer::startViewer:18] 
+[001EFBDC][PhotoViewer::stopViewer:31] 
+[001EFBDC][PhotoViewer::stopViewer:33] 
+[00473A10][ExternalToolLauncher::stop:54] 
+[00473A68][MonitorProcess::terminateProcess:61] 
+[001EFBDC][PhotoViewer::stopViewer:35] 
+[00473A68][MonitorProcess::runningThread:82] ended
+[00473A10][ExternalToolLauncher::onProcessEnd:60] 
+[001EFBDC][PhotoViewer::onViewerEnd:47] 
+[00473A68][MonitorProcess::runningThread:92] 
+[001EFBDC][PhotoViewer::stopViewer:41] 
+[00475948][MonitorProcess::MonitorProcess:9] 
+[004758F0][ExternalToolLauncher::ExternalToolLauncher:11] 
+[00473A10][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00473A68][MonitorProcess::~MonitorProcess:16] 
+[00473A68][MonitorProcess::stop:31] 
+[00473A68][MonitorProcess::stop:52] 
+[00473A68][MonitorProcess::stop:56] thread stopped
+[001EFBDC][PhotoViewer::startViewer:24] 
+[004758F0][ExternalToolLauncher::launch:21] 
+[00475948][MonitorProcess::start:22] 
+[004758F0][ExternalToolLauncher::launch:47] 
+[001EFBDC][PhotoViewer::startViewer:26] 
+[00475948][MonitorProcess::runningThread:68] 
+[001EFB94][Application::startViewerWithLastSeenPicture:65] 6
+[001EFB94][Application::startViewerWithLastSeenPicture:72] 7
+[001EF230][StatusFile::unlock:22] 
+[001EF230][StatusFile::unlock:25] closing
+[001EF230][StatusFile::~StatusFile:17] 
+[001EFC14][TaskbarNotificationHandler::removeIcon:51] 
+[001EFC14][TaskbarNotificationHandler::removeIcon:72] OK
+[001EFBDC][PhotoViewer::stopViewer:31] 
+[001EFBDC][PhotoViewer::stopViewer:33] 
+[004758F0][ExternalToolLauncher::stop:54] 
+[00475948][MonitorProcess::terminateProcess:61] 
+[001EFBDC][PhotoViewer::stopViewer:35] 
+[00475948][MonitorProcess::runningThread:82] ended
+[004758F0][ExternalToolLauncher::onProcessEnd:60] 
+[001EFBDC][PhotoViewer::onViewerEnd:47] 
+[00475948][MonitorProcess::runningThread:92] 
+[001EFBDC][PhotoViewer::stopViewer:41] 
+[001EFB94][Application::~Application:18] 
+
+
+APPLIACATION END
+
+
+
+[001EFC14][TaskbarNotificationHandler::~TaskbarNotificationHandler:16] 
+[004758F0][ExternalToolLauncher::~ExternalToolLauncher:16] 
+[00475948][MonitorProcess::~MonitorProcess:16] 
+[00475948][MonitorProcess::stop:31] 
+[00475948][MonitorProcess::stop:52] 
+[00475948][MonitorProcess::stop:56] thread stopped
+[001EFBB4][DirectoryMonitor::~DirectoryMonitor:14] beg
+[001EFBB4][DirectoryMonitor::~DirectoryMonitor:16] set event
+[001EFBB4][DirectoryMonitor::~DirectoryMonitor:18] join
+[001EFBB4][DirectoryMonitor::threadMethod:143] finishing
+[001EFBB4][DirectoryMonitor::threadMethod:151] end
+[001EFBB4][DirectoryMonitor::~DirectoryMonitor:33] end
+[0037FB50][DirectoryMonitor::DirectoryMonitor:8] 
+[0037FBBC][TaskbarNotificationHandler::TaskbarNotificationHandler:10] 
+[0037FB28][Application::Application:11] 
+
+
+APPLIACATION START
+
+
+
+[0037FB28][Application::init:23] 
+[0037FBBC][TaskbarNotificationHandler::addIcon:21] 
+[0037FBBC][TaskbarNotificationHandler::addIcon:42] OK
+[0037FB28][Application::startViewerWithLastSeenPicture:48] 
+[0037E65C][StatusFile::StatusFile:10] 
+[0037E65C][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E65C][StatusFile::lock:52] 
+[0037FB28][Application::startViewerWithLastSeenPicture:66] no such variable:[view]:last_seen
+[0037E65C][StatusFile::unlock:22] 
+[0037E65C][StatusFile::unlock:25] closing
+[0037E65C][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037E708][StatusFile::StatusFile:10] 
+[0037E708][StatusFile::lock:50] file=.\download\status\status.txt
+[0037E708][StatusFile::lock:52] 
+[0037FB28][Application::scanDownloadFolder:115] no such variable:[download]:available
+[0037E708][StatusFile::unlock:22] 
+[0037E708][StatusFile::unlock:25] closing
+[0037E708][StatusFile::~StatusFile:17] 
+[0037FB50][DirectoryMonitor::start:41] beg
+[0037FB50][DirectoryMonitor::start:45] 
+[0037FB50][DirectoryMonitor::start:52] 
+[0037FB50][DirectoryMonitor::start:59] 
+[0037FB50][DirectoryMonitor::start:67] 
+[0037FB50][DirectoryMonitor::start:74] end
+[0037FB50][DirectoryMonitor::start::<lambda_304d106f12dc1f55463f25f63f0781d8>::operator ():70] calling threadMethod
+[0037FB50][DirectoryMonitor::threadMethod:94] start
+[0037FB28][Application::startViewerWithLastSeenPicture:48] 
+[0037EBF8][StatusFile::StatusFile:10] 
+[0037EBF8][StatusFile::lock:50] file=.\download\status\status.txt
+[0037EBF8][StatusFile::lock:52] 
+[0037FB28][Application::startViewerWithLastSeenPicture:66] no such variable:[view]:last_seen
+[0037EBF8][StatusFile::unlock:22] 
+[0037EBF8][StatusFile::unlock:25] closing
+[0037EBF8][StatusFile::~StatusFile:17] 

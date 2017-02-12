@@ -7,7 +7,6 @@
 #include "SharePicDlg.h"
 
 //#include "ExternalToolLauncher.h"
-#include "BakopHandler.h"
 #include "DownloadedFileList.h"
 #include "PhotoViewer.h"
 #include "SettingsParser.h"
